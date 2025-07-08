@@ -9,7 +9,7 @@ HEADERS = {"accept": "application/json"}
 
 def fetch_tmdb(url, params={}):
     params["api_key"] = TMDB_API_KEY
-    params.setdefault("region", "AU")       # 🇦🇺 Target Australian content
+   # params.setdefault("region", "AU")       # 🇦🇺 Target Australian content
     params.setdefault("language", "en-AU")
 
     print(f"🔍 Fetching: {url} | Params: {params}")
