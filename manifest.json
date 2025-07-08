@@ -1,1 +1,45 @@
-{}
+{
+  "id": "community.autosync.master",
+  "name": "AutoSync Master Addon",
+  "version": "1.0.0",
+  "description": "Automatically updated catalogs for Netflix, Disney+, Prime, Apple TV+, Stan, genres and trending/popular categories. Includes movies & series.",
+  "resources": ["catalog"],
+  "types": ["movie", "series"],
+  "catalogs": [
+    { "type": "movie", "id": "netflix-movies", "name": "Netflix Movies", "extra": [] },
+    { "type": "series", "id": "netflix-series", "name": "Netflix Series", "extra": [] },
+    { "type": "movie", "id": "disney-movies", "name": "Disney+ Movies", "extra": [] },
+    { "type": "series", "id": "disney-series", "name": "Disney+ Series", "extra": [] },
+    { "type": "movie", "id": "prime-movies", "name": "Prime Video Movies", "extra": [] },
+    { "type": "series", "id": "prime-series", "name": "Prime Video Series", "extra": [] },
+    { "type": "movie", "id": "apple-movies", "name": "Apple TV+ Movies", "extra": [] },
+    { "type": "series", "id": "apple-series", "name": "Apple TV+ Series", "extra": [] },
+    { "type": "movie", "id": "stan-movies", "name": "Stan Movies", "extra": [] },
+    { "type": "series", "id": "stan-series", "name": "Stan Series", "extra": [] },
+
+    { "type": "movie", "id": "popular-movies", "name": "Popular Movies", "extra": [] },
+    { "type": "series", "id": "popular-series", "name": "Popular Series", "extra": [] },
+    { "type": "movie", "id": "trending-movies", "name": "Trending Movies", "extra": [] },
+    { "type": "series", "id": "trending-series", "name": "Trending Series", "extra": [] },
+    { "type": "movie", "id": "cinema-movies", "name": "In Cinemas", "extra": [] },
+    { "type": "series", "id": "newreleases-series", "name": "New Releases (TV)", "extra": [] },
+
+    { "type": "movie", "id": "action-movies", "name": "Action Movies", "extra": [] },
+    { "type": "series", "id": "action-series", "name": "Action Series", "extra": [] },
+    { "type": "movie", "id": "comedy-movies", "name": "Comedy Movies", "extra": [] },
+    { "type": "series", "id": "comedy-series", "name": "Comedy Series", "extra": [] },
+    { "type": "movie", "id": "family-movies", "name": "Family Movies", "extra": [] },
+    { "type": "series", "id": "family-series", "name": "Family Series", "extra": [] },
+    { "type": "movie", "id": "horror-movies", "name": "Horror Movies", "extra": [] },
+    { "type": "series", "id": "horror-series", "name": "Horror Series", "extra": [] },
+    { "type": "movie", "id": "romance-movies", "name": "Romance Movies", "extra": [] },
+    { "type": "series", "id": "romance-series", "name": "Romance Series", "extra": [] },
+    { "type": "movie", "id": "thriller-movies", "name": "Thriller Movies", "extra": [] },
+    { "type": "series", "id": "thriller-series", "name": "Thriller Series", "extra": [] },
+    { "type": "movie", "id": "adventure-movies", "name": "Adventure Movies", "extra": [] },
+    { "type": "series", "id": "adventure-series", "name": "Adventure Series", "extra": [] },
+    { "type": "movie", "id": "kids-movies", "name": "Kids Movies", "extra": [] },
+    { "type": "series", "id": "kids-series", "name": "Kids Series", "extra": [] }
+  ],
+  "idPrefixes": ["tt"]
+}
