@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "title": "Ironheart",
+    "imdb_id": "tt13623126",
+    "type": "series"
+  },
+  {
+    "title": "Andor",
+    "imdb_id": "tt9253284",
+    "type": "series"
+  },
+  {
+    "title": "Loki",
+    "imdb_id": "tt9140554",
+    "type": "series"
+  },
+  {
+    "title": "Star Wars: The Clone Wars",
+    "imdb_id": "tt0458290",
+    "type": "series"
+  },
+  {
+    "title": "Star Wars: The Bad Batch",
+    "imdb_id": "tt12708542",
+    "type": "series"
+  },
+  {
+    "title": "Star Wars: Visions",
+    "imdb_id": "tt13622982",
+    "type": "series"
+  },
+  {
+    "title": "Dancing with the Stars",
+    "imdb_id": "tt0463398",
+    "type": "series"
+  },
+  {
+    "title": "Daredevil: Born Again",
+    "imdb_id": "tt18923754",
+    "type": "series"
+  },
+  {
+    "title": "The Mandalorian",
+    "imdb_id": "tt8111088",
+    "type": "series"
+  },
+  {
+    "title": "Marvel Studios Legends",
+    "imdb_id": "tt13650480",
+    "type": "series"
+  },
+  {
+    "title": "What If...?",
+    "imdb_id": "tt10168312",
+    "type": "series"
+  },
+  {
+    "title": "The Falcon and the Winter Soldier",
+    "imdb_id": "tt9208876",
+    "type": "series"
+  },
+  {
+    "title": "Obi-Wan Kenobi",
+    "imdb_id": "tt8466564",
+    "type": "series"
+  },
+  {
+    "title": "Moon Knight",
+    "imdb_id": "tt10234724",
+    "type": "series"
+  },
+  {
+    "title": "Secret Invasion",
+    "imdb_id": "tt13157618",
+    "type": "series"
+  },
+  {
+    "title": "WandaVision",
+    "imdb_id": "tt9140560",
+    "type": "series"
+  },
+  {
+    "title": "Soy Luna",
+    "imdb_id": "tt5189554",
+    "type": "series"
+  },
+  {
+    "title": "The Mighty Ducks: Game Changers",
+    "imdb_id": "tt7939768",
+    "type": "series"
+  },
+  {
+    "title": "The Book of Boba Fett",
+    "imdb_id": "tt13668894",
+    "type": "series"
+  },
+  {
+    "title": "LIGHT & MAGIC",
+    "imdb_id": "tt19896784",
+    "type": "series"
+  }
+]

@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "title": "Late Show with David Letterman",
+    "imdb_id": "tt0106053",
+    "type": "series"
+  },
+  {
+    "title": "The Late Late Show with Craig Ferguson",
+    "imdb_id": "tt0437729",
+    "type": "series"
+  },
+  {
+    "title": "Conan",
+    "imdb_id": "tt1637574",
+    "type": "series"
+  },
+  {
+    "title": "The Daily Show",
+    "imdb_id": "tt0115147",
+    "type": "series"
+  },
+  {
+    "title": "The Tonight Show Starring Jimmy Fallon",
+    "imdb_id": "tt3444938",
+    "type": "series"
+  },
+  {
+    "title": "Real Time with Bill Maher",
+    "imdb_id": "tt0350448",
+    "type": "series"
+  },
+  {
+    "title": "The Simpsons",
+    "imdb_id": "tt0096697",
+    "type": "series"
+  },
+  {
+    "title": "Good Mythical Morning",
+    "imdb_id": "tt4087032",
+    "type": "series"
+  },
+  {
+    "title": "Doraemon",
+    "imdb_id": "tt4083422",
+    "type": "series"
+  },
+  {
+    "title": "The Late Show with Stephen Colbert",
+    "imdb_id": "tt3697842",
+    "type": "series"
+  },
+  {
+    "title": "Teen Titans Go!",
+    "imdb_id": "tt2771780",
+    "type": "series"
+  },
+  {
+    "title": "Ninja Boy Rantaro",
+    "imdb_id": "tt0306365",
+    "type": "series"
+  },
+  {
+    "title": "Adventure Time",
+    "imdb_id": "tt1305826",
+    "type": "series"
+  },
+  {
+    "title": "Chespirito: Not Really on Purpose",
+    "imdb_id": "tt34755671",
+    "type": "series"
+  },
+  {
+    "title": "Watch What Happens Live with Andy Cohen",
+    "imdb_id": "tt2057880",
+    "type": "series"
+  },
+  {
+    "title": "Men on a Mission",
+    "imdb_id": "tt5247622",
+    "type": "series"
+  },
+  {
+    "title": "The Tom and Jerry Show",
+    "imdb_id": "tt3559124",
+    "type": "series"
+  },
+  {
+    "title": "Late Night with Seth Meyers",
+    "imdb_id": "tt3513388",
+    "type": "series"
+  },
+  {
+    "title": "2 Days and 1 Night",
+    "imdb_id": "tt3247300",
+    "type": "series"
+  },
+  {
+    "title": "Ninja Hattori-kun",
+    "imdb_id": "tt2787558",
+    "type": "series"
+  }
+]

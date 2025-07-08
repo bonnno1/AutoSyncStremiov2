@@ -1,1 +1,97 @@
-[]
+[
+  {
+    "title": "Squid Game",
+    "imdb_id": "tt10919420",
+    "type": "series"
+  },
+  {
+    "title": "Dan Da Dan",
+    "imdb_id": "tt30217403",
+    "type": "series"
+  },
+  {
+    "title": "The Sandman",
+    "imdb_id": "tt1751634",
+    "type": "series"
+  },
+  {
+    "title": "Ironheart",
+    "imdb_id": "tt13623126",
+    "type": "series"
+  },
+  {
+    "title": "My Dress-Up Darling",
+    "imdb_id": "tt15765670",
+    "type": "series"
+  },
+  {
+    "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "imdb_id": "tt8993398",
+    "type": "series"
+  },
+  {
+    "title": "Grand Blue Dreaming",
+    "imdb_id": "tt8086718",
+    "type": "series"
+  },
+  {
+    "title": "Rick and Morty",
+    "imdb_id": "tt2861424",
+    "type": "series"
+  },
+  {
+    "title": "Kaiju No. 8",
+    "imdb_id": "tt21975436",
+    "type": "series"
+  },
+  {
+    "title": "Gachiakuta",
+    "imdb_id": "tt32612521",
+    "type": "series"
+  },
+  {
+    "title": "In the Name of Justice",
+    "imdb_id": "tt31565382",
+    "type": "series"
+  },
+  {
+    "title": "The Bear",
+    "imdb_id": "tt14452776",
+    "type": "series"
+  },
+  {
+    "title": "Murderbot",
+    "imdb_id": "tt30444310",
+    "type": "series"
+  },
+  {
+    "title": "Flourished Peony",
+    "imdb_id": "tt29931668",
+    "type": "series"
+  },
+  {
+    "title": "One Piece",
+    "imdb_id": "tt0388629",
+    "type": "series"
+  },
+  {
+    "title": "Call of the Night",
+    "imdb_id": "tt15975122",
+    "type": "series"
+  },
+  {
+    "title": "The Apothecary Diaries",
+    "imdb_id": "tt26743760",
+    "type": "series"
+  },
+  {
+    "title": "The Summer Hikaru Died",
+    "imdb_id": "tt33028568",
+    "type": "series"
+  },
+  {
+    "title": "Alice in Borderland",
+    "imdb_id": "tt10795658",
+    "type": "series"
+  }
+]

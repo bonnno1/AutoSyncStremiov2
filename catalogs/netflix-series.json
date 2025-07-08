@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "title": "Squid Game",
+    "imdb_id": "tt10919420",
+    "type": "series"
+  },
+  {
+    "title": "Sesame Street",
+    "imdb_id": "tt0063951",
+    "type": "series"
+  },
+  {
+    "title": "Raw",
+    "imdb_id": "tt0185103",
+    "type": "series"
+  },
+  {
+    "title": "Arrested Development",
+    "imdb_id": "tt0367279",
+    "type": "series"
+  },
+  {
+    "title": "All Hail King Julien",
+    "imdb_id": "tt3807022",
+    "type": "series"
+  },
+  {
+    "title": "The Sandman",
+    "imdb_id": "tt1751634",
+    "type": "series"
+  },
+  {
+    "title": "Grace and Frankie",
+    "imdb_id": "tt3609352",
+    "type": "series"
+  },
+  {
+    "title": "Lucifer",
+    "imdb_id": "tt4052886",
+    "type": "series"
+  },
+  {
+    "title": "The Umbrella Academy",
+    "imdb_id": "tt1312171",
+    "type": "series"
+  },
+  {
+    "title": "Narcos: Mexico",
+    "imdb_id": "tt8714904",
+    "type": "series"
+  },
+  {
+    "title": "Stranger Things",
+    "imdb_id": "tt4574334",
+    "type": "series"
+  },
+  {
+    "title": "Squid Game: The Challenge",
+    "imdb_id": "tt28104766",
+    "type": "series"
+  },
+  {
+    "title": "Black Mirror",
+    "imdb_id": "tt2085059",
+    "type": "series"
+  },
+  {
+    "title": "Ada Twist, Scientist",
+    "imdb_id": "tt13241650",
+    "type": "series"
+  },
+  {
+    "title": "Virgin River",
+    "imdb_id": "tt9077530",
+    "type": "series"
+  },
+  {
+    "title": "Emily in Paris",
+    "imdb_id": "tt8962124",
+    "type": "series"
+  },
+  {
+    "title": "Love, Death & Robots",
+    "imdb_id": "tt9561862",
+    "type": "series"
+  },
+  {
+    "title": "Home: Adventures with Tip & Oh",
+    "imdb_id": "tt5759196",
+    "type": "series"
+  },
+  {
+    "title": "Sex Education",
+    "imdb_id": "tt7767422",
+    "type": "series"
+  },
+  {
+    "title": "Olympo",
+    "imdb_id": "tt33029688",
+    "type": "series"
+  }
+]

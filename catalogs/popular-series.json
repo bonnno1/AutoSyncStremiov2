@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "title": "Squid Game",
+    "imdb_id": "tt10919420",
+    "type": "series"
+  },
+  {
+    "title": "Among Friends",
+    "imdb_id": "tt0175383",
+    "type": "series"
+  },
+  {
+    "title": "Late Show with David Letterman",
+    "imdb_id": "tt0106053",
+    "type": "series"
+  },
+  {
+    "title": "The Late Late Show with Craig Ferguson",
+    "imdb_id": "tt0437729",
+    "type": "series"
+  },
+  {
+    "title": "Conan",
+    "imdb_id": "tt1637574",
+    "type": "series"
+  },
+  {
+    "title": "The Daily Show",
+    "imdb_id": "tt0115147",
+    "type": "series"
+  },
+  {
+    "title": "Ici tout commence",
+    "imdb_id": "tt13392064",
+    "type": "series"
+  },
+  {
+    "title": "The Tonight Show Starring Jimmy Fallon",
+    "imdb_id": "tt3444938",
+    "type": "series"
+  },
+  {
+    "title": "Real Time with Bill Maher",
+    "imdb_id": "tt0350448",
+    "type": "series"
+  },
+  {
+    "title": "The Simpsons",
+    "imdb_id": "tt0096697",
+    "type": "series"
+  },
+  {
+    "title": "The Late Late Show with James Corden",
+    "imdb_id": "tt4280606",
+    "type": "series"
+  },
+  {
+    "title": "Good Mythical Morning",
+    "imdb_id": "tt4087032",
+    "type": "series"
+  },
+  {
+    "title": "Radio Star",
+    "imdb_id": "tt6283624",
+    "type": "series"
+  },
+  {
+    "title": "Doraemon",
+    "imdb_id": "tt4083422",
+    "type": "series"
+  },
+  {
+    "title": "Criminal Minds",
+    "imdb_id": "tt0452046",
+    "type": "series"
+  },
+  {
+    "title": "Law & Order: Special Victims Unit",
+    "imdb_id": "tt0203259",
+    "type": "series"
+  },
+  {
+    "title": "The Late Show with Stephen Colbert",
+    "imdb_id": "tt3697842",
+    "type": "series"
+  },
+  {
+    "title": "This Old House",
+    "imdb_id": "tt0078701",
+    "type": "series"
+  },
+  {
+    "title": "Egoli: Place of Gold",
+    "imdb_id": "tt0128176",
+    "type": "series"
+  },
+  {
+    "title": "Teen Titans Go!",
+    "imdb_id": "tt2771780",
+    "type": "series"
+  }
+]

@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "title": "Heads of State",
+    "imdb_id": "tt13357520",
+    "type": "movie"
+  },
+  {
+    "title": "Lilo & Stitch",
+    "imdb_id": "tt11655566",
+    "type": "movie"
+  },
+  {
+    "title": "KPop Demon Hunters",
+    "imdb_id": "tt14205554",
+    "type": "movie"
+  },
+  {
+    "title": "Dora and the Search for Sol Dorado",
+    "imdb_id": "tt32621553",
+    "type": "movie"
+  },
+  {
+    "title": "Long Distance",
+    "imdb_id": "tt9883398",
+    "type": "movie"
+  },
+  {
+    "title": "A Minecraft Movie",
+    "imdb_id": "tt3566834",
+    "type": "movie"
+  },
+  {
+    "title": "Laila",
+    "imdb_id": "tt32831759",
+    "type": "movie"
+  },
+  {
+    "title": "Open",
+    "imdb_id": "tt36749443",
+    "type": "movie"
+  },
+  {
+    "title": "Moana 2",
+    "imdb_id": "tt13622970",
+    "type": "movie"
+  },
+  {
+    "title": "Deep Cover",
+    "imdb_id": "tt31121295",
+    "type": "movie"
+  },
+  {
+    "title": "The Ugly Stepsister",
+    "imdb_id": "tt29344903",
+    "type": "movie"
+  },
+  {
+    "title": "Sonic the Hedgehog 3",
+    "imdb_id": "tt18259086",
+    "type": "movie"
+  },
+  {
+    "title": "The Roundup: Punishment",
+    "imdb_id": "tt27811040",
+    "type": "movie"
+  },
+  {
+    "title": "The Phoenician Scheme",
+    "imdb_id": "tt30840798",
+    "type": "movie"
+  },
+  {
+    "title": "Elio",
+    "imdb_id": "tt4900148",
+    "type": "movie"
+  },
+  {
+    "title": "Inside Out 2",
+    "imdb_id": "tt22022452",
+    "type": "movie"
+  },
+  {
+    "title": "How to Train Your Dragon 2",
+    "imdb_id": "tt1646971",
+    "type": "movie"
+  },
+  {
+    "title": "Misericordia",
+    "imdb_id": "tt32085997",
+    "type": "movie"
+  },
+  {
+    "title": "Despicable Me 4",
+    "imdb_id": "tt7510222",
+    "type": "movie"
+  },
+  {
+    "title": "Kung Fu Panda 4",
+    "imdb_id": "tt21692408",
+    "type": "movie"
+  }
+]

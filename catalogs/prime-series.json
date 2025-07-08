@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "title": "Vikings",
+    "imdb_id": "tt2306299",
+    "type": "series"
+  },
+  {
+    "title": "Dirty Linen",
+    "imdb_id": "tt24013752",
+    "type": "series"
+  },
+  {
+    "title": "The Boys",
+    "imdb_id": "tt1190634",
+    "type": "series"
+  },
+  {
+    "title": "Neighbours",
+    "imdb_id": "tt0088580",
+    "type": "series"
+  },
+  {
+    "title": "Mozart in the Jungle",
+    "imdb_id": "tt3502172",
+    "type": "series"
+  },
+  {
+    "title": "Countdown",
+    "imdb_id": "tt32559610",
+    "type": "series"
+  },
+  {
+    "title": "Reacher",
+    "imdb_id": "tt9288030",
+    "type": "series"
+  },
+  {
+    "title": "The Lord of the Rings: The Rings of Power",
+    "imdb_id": "tt7631058",
+    "type": "series"
+  },
+  {
+    "title": "Bosch",
+    "imdb_id": "tt3502248",
+    "type": "series"
+  },
+  {
+    "title": "The Grand Tour",
+    "imdb_id": "tt5712554",
+    "type": "series"
+  },
+  {
+    "title": "INVINCIBLE",
+    "imdb_id": "tt6741278",
+    "type": "series"
+  },
+  {
+    "title": "Mentiras, The Series",
+    "imdb_id": "tt31690920",
+    "type": "series"
+  },
+  {
+    "title": "The Summer I Turned Pretty",
+    "imdb_id": "tt14016500",
+    "type": "series"
+  },
+  {
+    "title": "Carnival Row",
+    "imdb_id": "tt0489974",
+    "type": "series"
+  },
+  {
+    "title": "The Wheel of Time",
+    "imdb_id": "tt7462410",
+    "type": "series"
+  },
+  {
+    "title": "The Expanse",
+    "imdb_id": "tt3230854",
+    "type": "series"
+  },
+  {
+    "title": "We Were Liars",
+    "imdb_id": "tt3914054",
+    "type": "series"
+  },
+  {
+    "title": "The Chosen",
+    "imdb_id": "tt5622316",
+    "type": "series"
+  },
+  {
+    "title": "Fallout",
+    "imdb_id": "tt12637874",
+    "type": "series"
+  },
+  {
+    "title": "The Legend of Vox Machina",
+    "imdb_id": "tt11247158",
+    "type": "series"
+  }
+]
