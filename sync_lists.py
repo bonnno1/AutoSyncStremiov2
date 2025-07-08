@@ -4,117 +4,117 @@ import json
 
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 TMDB_BASE = "https://api.themoviedb.org/3"
+
 HEADERS = {"accept": "application/json"}
 
-def fetch_tmdb(endpoint, params={}):
+def fetch_tmdb(url, params={}):
     params["api_key"] = TMDB_API_KEY
-    params.setdefault("region", "AU")
+    params.setdefault("region", "AU")       # 🇦🇺 Target Australian content
     params.setdefault("language", "en-AU")
-    params.setdefault("sort_by", "vote_average.desc")
-    params.setdefault("vote_count.gte", 50)
-    params.setdefault("page", 1)
 
-    print(f"🔍 Fetching: {endpoint} | Params: {params}")
-    res = requests.get(f"{TMDB_BASE}{endpoint}", params=params, headers=HEADERS)
+    print(f"🔍 Fetching: {url} | Params: {params}")
+    res = requests.get(f"{TMDB_BASE}{url}", params=params, headers=HEADERS)
 
     try:
         data = res.json()
     except ValueError:
-        print(f"❌ Invalid JSON from TMDb at {endpoint}")
+        print(f"❌ Invalid JSON from TMDb at {url}")
         return []
 
-    if res.status_code != 200 or "results" not in data:
-        print(f"⚠️ TMDb error {res.status_code} or no 'results' in response")
+    print(f"📨 Response: {json.dumps(data, indent=2)}")
+
+    if res.status_code != 200:
+        print(f"❌ TMDb error {res.status_code} at {url}: {data.get('status_message')}")
         return []
 
-    return data["results"][:100]  # Limit to top 100 results
+    if "results" not in data:
+        print(f"⚠️ No 'results' in TMDb response for {url}")
+        return []
 
-def fetch_imdb_id(item_id, is_movie):
-    endpoint = f"/movie/{item_id}/external_ids" if is_movie else f"/tv/{item_id}/external_ids"
-    res = requests.get(f"{TMDB_BASE}{endpoint}", params={"api_key": TMDB_API_KEY}, headers=HEADERS)
+    return data["results"]
+
+def fetch_imdb_id(tmdb_id, content_type="tv"):
+    url = f"/{content_type}/{tmdb_id}/external_ids"
+    params = {"api_key": TMDB_API_KEY}
+    print(f"🔍 Fetching IMDb ID for TMDb ID {tmdb_id} ({content_type})")
+
+    res = requests.get(f"{TMDB_BASE}{url}", params=params, headers=HEADERS)
     try:
         data = res.json()
+        print(f"📨 IMDb Response: {json.dumps(data, indent=2)}")
         return data.get("imdb_id")
     except ValueError:
+        print(f"❌ Invalid JSON when fetching IMDb ID for {tmdb_id}")
         return None
 
-def to_json_format(items, is_movie):
-    result = []
-    for item in items:
-        imdb_id = fetch_imdb_id(item["id"], is_movie)
+def to_json_format(results, content_type):
+    formatted = []
+    for item in results:
+        imdb_id = fetch_imdb_id(item["id"], "tv" if content_type == "series" else "movie")
         if not imdb_id:
             print(f"⚠️ No IMDb ID for TMDb ID {item['id']} — skipping.")
             continue
-        result.append({
-            "title": item.get("title") if is_movie else item.get("name"),
-            "imdb_id": imdb_id
+        formatted.append({
+            "title": item.get("name") or item.get("title"),
+            "imdb_id": imdb_id,
+            "type": content_type
         })
-    return result
+    return formatted
 
-def save_catalog(slug, items, type_label):
-    if not items:
-        print(f"⚠️ No data to save for {slug}-{type_label}")
-        return
-    filename = f"catalogs/{slug}-{type_label}.json"
-    with open(filename, "w", encoding="utf-8") as f:
-        json.dump(items, f, indent=2)
-    print(f"✅ Saved {len(items)} items to {filename}")
+def fetch_shows_for_list(list_def):
+    params = list_def.get("tmdb_params", {})
+    special = list_def.get("special")
+    content_type = list_def.get("type", "series")  # Default to series
 
-def get_categories():
-    # Each entry: slug, TMDB params (genre/network/keyword), display name
+    if special == "trending":
+        return to_json_format(fetch_tmdb(f"/trending/{content_type}/week"), content_type)
+    elif special == "popular":
+        return to_json_format(fetch_tmdb(f"/{content_type}/popular"), content_type)
+    elif special == "now_playing":
+        return to_json_format(fetch_tmdb("/movie/now_playing"), "movie")
+    elif special == "airing_today":
+        return to_json_format(fetch_tmdb("/tv/airing_today"), "series")
+
+    path = "/discover/" + ("tv" if content_type == "series" else "movie")
+    return to_json_format(fetch_tmdb(path, params), content_type)
+
+def get_category_list():
     return [
-        {"slug": "netflix", "params": {"with_networks": "213"}, "name": "Netflix"},
-        {"slug": "disney", "params": {"with_networks": "2739"}, "name": "Disney+"},
-        {"slug": "prime", "params": {"with_networks": "1024"}, "name": "Prime Video"},
-        {"slug": "apple", "params": {"with_networks": "2552"}, "name": "Apple TV+"},
-        {"slug": "stan", "params": {"with_keywords": "186729"}, "name": "Stan"},
-        {"slug": "trending", "special": "trending", "name": "Trending"},
-        {"slug": "popular", "special": "popular", "name": "Popular"},
-        {"slug": "cinema", "special": "now_playing", "name": "In Cinemas"},
-        {"slug": "newreleases", "special": "airing_today", "name": "New Releases"},
-        {"slug": "action", "params": {"with_genres": "28"}, "name": "Action"},
-        {"slug": "comedy", "params": {"with_genres": "35"}, "name": "Comedy"},
-        {"slug": "family", "params": {"with_genres": "10751"}, "name": "Family"},
-        {"slug": "horror", "params": {"with_genres": "27"}, "name": "Horror"},
-        {"slug": "kids", "params": {"with_genres": "16"}, "name": "Kids"},
-        {"slug": "thriller", "params": {"with_genres": "53"}, "name": "Thriller"},
-        {"slug": "romance", "params": {"with_genres": "10749"}, "name": "Romance"},
-        {"slug": "adventure", "params": {"with_genres": "12"}, "name": "Adventure"},
+        # Streaming Services
+        {"slug": "netflix-series", "tmdb_params": {"with_networks": "213"}, "name": "Netflix Series", "type": "series"},
+        {"slug": "netflix-movies", "tmdb_params": {"with_networks": "213"}, "name": "Netflix Movies", "type": "movie"},
+        {"slug": "disney-series", "tmdb_params": {"with_networks": "2739"}, "name": "Disney+ Series", "type": "series"},
+        {"slug": "disney-movies", "tmdb_params": {"with_networks": "2739"}, "name": "Disney+ Movies", "type": "movie"},
+        {"slug": "prime-series", "tmdb_params": {"with_networks": "1024"}, "name": "Prime Series", "type": "series"},
+        {"slug": "prime-movies", "tmdb_params": {"with_networks": "1024"}, "name": "Prime Movies", "type": "movie"},
+        {"slug": "apple-series", "tmdb_params": {"with_networks": "2552"}, "name": "Apple TV+ Series", "type": "series"},
+        {"slug": "apple-movies", "tmdb_params": {"with_networks": "2552"}, "name": "Apple TV+ Movies", "type": "movie"},
+        {"slug": "stan-series", "tmdb_params": {"with_keywords": "186729"}, "name": "Stan Series", "type": "series"},
+        {"slug": "stan-movies", "tmdb_params": {"with_keywords": "186729"}, "name": "Stan Movies", "type": "movie"},
+
+        # General Categories
+        {"slug": "trending-series", "special": "trending", "name": "Trending Series", "type": "series"},
+        {"slug": "trending-movies", "special": "trending", "name": "Trending Movies", "type": "movie"},
+        {"slug": "popular-series", "special": "popular", "name": "Popular Series", "type": "series"},
+        {"slug": "popular-movies", "special": "popular", "name": "Popular Movies", "type": "movie"},
+        {"slug": "cinema", "special": "now_playing", "name": "In Cinemas", "type": "movie"},
+        {"slug": "newreleases", "special": "airing_today", "name": "New Releases", "type": "series"},
+
+        # Genres
+        {"slug": "action-series", "tmdb_params": {"with_genres": "10759"}, "name": "Action Series", "type": "series"},
+        {"slug": "action-movies", "tmdb_params": {"with_genres": "28"}, "name": "Action Movies", "type": "movie"},
+        {"slug": "comedy-series", "tmdb_params": {"with_genres": "35"}, "name": "Comedy Series", "type": "series"},
+        {"slug": "comedy-movies", "tmdb_params": {"with_genres": "35"}, "name": "Comedy Movies", "type": "movie"},
+        {"slug": "family-series", "tmdb_params": {"with_genres": "10751"}, "name": "Family Series", "type": "series"},
+        {"slug": "family-movies", "tmdb_params": {"with_genres": "10751"}, "name": "Family Movies", "type": "movie"},
+        {"slug": "horror-series", "tmdb_params": {"with_genres": "27"}, "name": "Horror Series", "type": "series"},
+        {"slug": "horror-movies", "tmdb_params": {"with_genres": "27"}, "name": "Horror Movies", "type": "movie"},
+        {"slug": "kids-series", "tmdb_params": {"with_genres": "10762"}, "name": "Kids Series", "type": "series"},
+        {"slug": "kids-movies", "tmdb_params": {"with_genres": "16"}, "name": "Kids Movies", "type": "movie"},
+        {"slug": "thriller-series", "tmdb_params": {"with_genres": "53"}, "name": "Thriller Series", "type": "series"},
+        {"slug": "thriller-movies", "tmdb_params": {"with_genres": "53"}, "name": "Thriller Movies", "type": "movie"},
+        {"slug": "romance-series", "tmdb_params": {"with_genres": "10749"}, "name": "Romance Series", "type": "series"},
+        {"slug": "romance-movies", "tmdb_params": {"with_genres": "10749"}, "name": "Romance Movies", "type": "movie"},
+        {"slug": "adventure-series", "tmdb_params": {"with_genres": "12"}, "name": "Adventure Series", "type": "series"},
+        {"slug": "adventure-movies", "tmdb_params": {"with_genres": "12"}, "name": "Adventure Movies", "type": "movie"}
     ]
-
-def fetch_shows_and_movies():
-    categories = get_categories()
-    for cat in categories:
-        slug = cat["slug"]
-
-        # Special categories (no movies equivalent)
-        if cat.get("special") == "trending":
-            tv_items = fetch_tmdb("/trending/tv/week")
-            save_catalog(slug, to_json_format(tv_items, is_movie=False), "series")
-            continue
-        elif cat.get("special") == "popular":
-            tv_items = fetch_tmdb("/tv/popular")
-            save_catalog(slug, to_json_format(tv_items, is_movie=False), "series")
-            continue
-        elif cat.get("special") == "now_playing":
-            movie_items = fetch_tmdb("/movie/now_playing")
-            save_catalog(slug, to_json_format(movie_items, is_movie=True), "movies")
-            continue
-        elif cat.get("special") == "airing_today":
-            tv_items = fetch_tmdb("/tv/airing_today")
-            save_catalog(slug, to_json_format(tv_items, is_movie=False), "series")
-            continue
-
-        # Regular genre/network/keyword-based categories
-        tv_params = dict(cat["params"])
-        movie_params = dict(cat["params"])
-
-        tv_items = fetch_tmdb("/discover/tv", tv_params)
-        movie_items = fetch_tmdb("/discover/movie", movie_params)
-
-        save_catalog(slug, to_json_format(tv_items, is_movie=False), "series")
-        save_catalog(slug, to_json_format(movie_items, is_movie=True), "movies")
-
-# Only runs if executed directly
-if __name__ == "__main__":
-    fetch_shows_and_movies()
