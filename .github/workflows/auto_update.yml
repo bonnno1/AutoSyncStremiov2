@@ -1,31 +1,33 @@
-name: Update Stremio Catalogs
+name: Auto Update Catalogs
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # Runs daily at 12:00 PM UTC
-  workflow_dispatch:      # Allows manual trigger from GitHub UI
+    - cron: '0 14 * * *'  # Runs at 12:00 AM (midnight) Adelaide time (UTC+9.5 = UTC+9.5 → UTC = 14:00)
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     env:
       TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: 3.11
 
-      - name: Install Dependencies
+      - name: Install dependencies
         run: |
           pip install -r requirements.txt
 
       - name: Run catalog generator
-        run: python main.py
+        run: |
+          python main.py
 
       - name: Commit and push updated JSON files
         run: |
