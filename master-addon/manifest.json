@@ -1,0 +1,65 @@
+{
+  "id": "community.stremio.autosync",
+  "name": "AutoSync Catalogs",
+  "description": "Automatically updated catalogs for Netflix, Disney+, Prime Video, Apple TV+, Stan, genres, and more. Movies + Series supported.",
+  "version": "1.0.0",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo_stremio.png",
+  "resources": [
+    {
+      "name": "AutoSync Catalogs",
+      "type": "catalog",
+      "idPrefixes": ["tt"],
+      "catalogs": [
+        { "type": "series", "id": "netflix-series", "name": "Netflix Series" },
+        { "type": "movies", "id": "netflix-movies", "name": "Netflix Movies" },
+
+        { "type": "series", "id": "disney-series", "name": "Disney+ Series" },
+        { "type": "movies", "id": "disney-movies", "name": "Disney+ Movies" },
+
+        { "type": "series", "id": "prime-series", "name": "Prime Video Series" },
+        { "type": "movies", "id": "prime-movies", "name": "Prime Video Movies" },
+
+        { "type": "series", "id": "apple-series", "name": "Apple TV+ Series" },
+        { "type": "movies", "id": "apple-movies", "name": "Apple TV+ Movies" },
+
+        { "type": "series", "id": "stan-series", "name": "Stan Series" },
+        { "type": "movies", "id": "stan-movies", "name": "Stan Movies" },
+
+        { "type": "series", "id": "trending-series", "name": "Trending Shows" },
+        { "type": "series", "id": "popular-series", "name": "Popular Shows" },
+        { "type": "movies", "id": "cinema-movies", "name": "In Cinemas" },
+        { "type": "series", "id": "newreleases-series", "name": "New Releases" },
+
+        { "type": "series", "id": "action-series", "name": "Action Series" },
+        { "type": "movies", "id": "action-movies", "name": "Action Movies" },
+
+        { "type": "series", "id": "comedy-series", "name": "Comedy Series" },
+        { "type": "movies", "id": "comedy-movies", "name": "Comedy Movies" },
+
+        { "type": "series", "id": "family-series", "name": "Family Series" },
+        { "type": "movies", "id": "family-movies", "name": "Family Movies" },
+
+        { "type": "series", "id": "horror-series", "name": "Horror Series" },
+        { "type": "movies", "id": "horror-movies", "name": "Horror Movies" },
+
+        { "type": "series", "id": "kids-series", "name": "Kids Series" },
+        { "type": "movies", "id": "kids-movies", "name": "Kids Movies" },
+
+        { "type": "series", "id": "thriller-series", "name": "Thriller Series" },
+        { "type": "movies", "id": "thriller-movies", "name": "Thriller Movies" },
+
+        { "type": "series", "id": "romance-series", "name": "Romance Series" },
+        { "type": "movies", "id": "romance-movies", "name": "Romance Movies" },
+
+        { "type": "series", "id": "adventure-series", "name": "Adventure Series" },
+        { "type": "movies", "id": "adventure-movies", "name": "Adventure Movies" }
+      ]
+    }
+  ],
+  "types": ["movie", "series"],
+  "catalogs": [],
+  "idPrefixes": ["tt"],
+  "behaviorHints": {
+    "configurationRequired": false
+  }
+}
