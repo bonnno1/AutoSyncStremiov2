@@ -1,102 +1,402 @@
 [
   {
-    "title": "Murderbot",
-    "imdb_id": "tt30444310",
-    "type": "series"
+    "title": "Puppy Place",
+    "imdb_id": "tt15389998"
   },
   {
-    "title": "Smoke",
-    "imdb_id": "tt24163532",
-    "type": "series"
+    "title": "Number One on the Call Sheet",
+    "imdb_id": "tt36005664"
+  },
+  {
+    "title": "Goldie",
+    "imdb_id": "tt35511175"
+  },
+  {
+    "title": "Earthsounds",
+    "imdb_id": "tt13276218"
+  },
+  {
+    "title": "Wolfboy and the Everything Factory",
+    "imdb_id": "tt15389676"
+  },
+  {
+    "title": "Dickinson",
+    "imdb_id": "tt8518136"
+  },
+  {
+    "title": "Frog and Toad",
+    "imdb_id": "tt2197822"
   },
   {
     "title": "Severance",
-    "imdb_id": "tt11280740",
-    "type": "series"
-  },
-  {
-    "title": "Silo",
-    "imdb_id": "tt14688458",
-    "type": "series"
-  },
-  {
-    "title": "See",
-    "imdb_id": "tt7949218",
-    "type": "series"
-  },
-  {
-    "title": "For All Mankind",
-    "imdb_id": "tt7772588",
-    "type": "series"
+    "imdb_id": "tt11280740"
   },
   {
     "title": "Ted Lasso",
-    "imdb_id": "tt10986410",
-    "type": "series"
+    "imdb_id": "tt10986410"
   },
   {
-    "title": "Snoopy in Space",
-    "imdb_id": "tt10659366",
-    "type": "series"
+    "title": "The Dynasty: New England Patriots",
+    "imdb_id": "tt18257378"
   },
   {
-    "title": "Foundation",
-    "imdb_id": "tt0804484",
-    "type": "series"
+    "title": "The Oprah Conversation",
+    "imdb_id": "tt10171532"
+  },
+  {
+    "title": "Prehistoric Planet",
+    "imdb_id": "tt10324164"
+  },
+  {
+    "title": "Defending Jacob",
+    "imdb_id": "tt2304589"
+  },
+  {
+    "title": "Real Madrid: Until the End",
+    "imdb_id": "tt26924816"
+  },
+  {
+    "title": "Lessons in Chemistry",
+    "imdb_id": "tt13911628"
+  },
+  {
+    "title": "Long Way Home",
+    "imdb_id": "tt33096033"
+  },
+  {
+    "title": "Silo",
+    "imdb_id": "tt14688458"
+  },
+  {
+    "title": "Black Bird",
+    "imdb_id": "tt4301160"
+  },
+  {
+    "title": "See",
+    "imdb_id": "tt7949218"
+  },
+  {
+    "title": "Camp Snoopy",
+    "imdb_id": "tt32490790"
+  },
+  {
+    "title": "Earth at Night in Colour",
+    "imdb_id": "tt13008036"
+  },
+  {
+    "title": "Yo Gabba GabbaLand!",
+    "imdb_id": "tt32082949"
+  },
+  {
+    "title": "Messi Meets America",
+    "imdb_id": "tt29373357"
+  },
+  {
+    "title": "Pretzel and the Puppies",
+    "imdb_id": "tt17524490"
   },
   {
     "title": "Slow Horses",
-    "imdb_id": "tt5875444",
-    "type": "series"
+    "imdb_id": "tt5875444"
   },
   {
-    "title": "Stick",
-    "imdb_id": "tt31710249",
-    "type": "series"
+    "title": "Presumed Innocent",
+    "imdb_id": "tt17677860"
   },
   {
-    "title": "The Buccaneers",
-    "imdb_id": "tt21108774",
-    "type": "series"
+    "title": "The Secret Lives of Animals",
+    "imdb_id": "tt34555672"
   },
   {
-    "title": "Shrinking",
-    "imdb_id": "tt15677150",
-    "type": "series"
+    "title": "Tiny World",
+    "imdb_id": "tt13007904"
   },
   {
-    "title": "Mythic Quest",
-    "imdb_id": "tt8879940",
-    "type": "series"
+    "title": "Wanted: The Escape of Carlos Ghosn",
+    "imdb_id": "tt15520170"
   },
   {
-    "title": "Servant",
-    "imdb_id": "tt8068860",
-    "type": "series"
+    "title": "Swagger",
+    "imdb_id": "tt8005626"
+  },
+  {
+    "title": "Pachinko",
+    "imdb_id": "tt8888462"
+  },
+  {
+    "title": "Midnight Family",
+    "imdb_id": "tt18753124"
+  },
+  {
+    "title": "Dark Matter",
+    "imdb_id": "tt19231492"
+  },
+  {
+    "title": "Stillwater",
+    "imdb_id": "tt13135714"
+  },
+  {
+    "title": "The Morning Show",
+    "imdb_id": "tt7203552"
+  },
+  {
+    "title": "Foundation",
+    "imdb_id": "tt0804484"
   },
   {
     "title": "Masters of the Air",
-    "imdb_id": "tt2640044",
-    "type": "series"
+    "imdb_id": "tt2640044"
   },
   {
-    "title": "Invasion",
-    "imdb_id": "tt9737326",
-    "type": "series"
+    "title": "Franklin",
+    "imdb_id": "tt18351584"
   },
   {
-    "title": "The Studio",
-    "imdb_id": "tt23649128",
-    "type": "series"
-  },
-  {
-    "title": "Your Friends & Neighbors",
-    "imdb_id": "tt30459041",
-    "type": "series"
+    "title": "Shrinking",
+    "imdb_id": "tt15677150"
   },
   {
     "title": "Monarch: Legacy of Monsters",
-    "imdb_id": "tt17220216",
-    "type": "series"
+    "imdb_id": "tt17220216"
+  },
+  {
+    "title": "Helpsters Help You",
+    "imdb_id": "tt12547226"
+  },
+  {
+    "title": "Fraggle Rock: Back to the Rock",
+    "imdb_id": "tt12397680"
+  },
+  {
+    "title": "The Snoopy Show",
+    "imdb_id": "tt13206602"
+  },
+  {
+    "title": "Hijack",
+    "imdb_id": "tt19854762"
+  },
+  {
+    "title": "Omnivore",
+    "imdb_id": "tt18225192"
+  },
+  {
+    "title": "For All Mankind",
+    "imdb_id": "tt7772588"
+  },
+  {
+    "title": "STEVE! (martin) a documentary in 2 pieces",
+    "imdb_id": "tt21629194"
+  },
+  {
+    "title": "Trying",
+    "imdb_id": "tt10982034"
+  },
+  {
+    "title": "The Studio",
+    "imdb_id": "tt23649128"
+  },
+  {
+    "title": "Five Days at Memorial",
+    "imdb_id": "tt3283594"
+  },
+  {
+    "title": "1971: The Year That Music Changed Everything",
+    "imdb_id": "tt14544732"
+  },
+  {
+    "title": "The Crowded Room",
+    "imdb_id": "tt14417718"
+  },
+  {
+    "title": "Shining Girls",
+    "imdb_id": "tt2953250"
+  },
+  {
+    "title": "Fraggle Rock: Rock On!",
+    "imdb_id": "tt12187270"
+  },
+  {
+    "title": "Home Before Dark",
+    "imdb_id": "tt6053512"
+  },
+  {
+    "title": "Vietnam: The War That Changed America",
+    "imdb_id": "tt35407689"
+  },
+  {
+    "title": "Servant",
+    "imdb_id": "tt8068860"
+  },
+  {
+    "title": "Home",
+    "imdb_id": "tt8068900"
+  },
+  {
+    "title": "Bad Sisters",
+    "imdb_id": "tt15469618"
+  },
+  {
+    "title": "The New Look",
+    "imdb_id": "tt18177528"
+  },
+  {
+    "title": "Women in Blue",
+    "imdb_id": "tt20516590"
+  },
+  {
+    "title": "The Last Days of Ptolemy Grey",
+    "imdb_id": "tt13820498"
+  },
+  {
+    "title": "Murderbot",
+    "imdb_id": "tt30444310"
+  },
+  {
+    "title": "WondLa",
+    "imdb_id": "tt14076044"
+  },
+  {
+    "title": "Long Way Up",
+    "imdb_id": "tt12824922"
+  },
+  {
+    "title": "Big Beasts",
+    "imdb_id": "tt27371495"
+  },
+  {
+    "title": "Drops of God",
+    "imdb_id": "tt15282746"
+  },
+  {
+    "title": "Disclaimer",
+    "imdb_id": "tt16294384"
+  },
+  {
+    "title": "Snoopy in Space",
+    "imdb_id": "tt10659366"
+  },
+  {
+    "title": "Messi's World Cup: The Rise of a Legend",
+    "imdb_id": "tt27972462"
+  },
+  {
+    "title": "Shantaram",
+    "imdb_id": "tt0429087"
+  },
+  {
+    "title": "Bad Monkey",
+    "imdb_id": "tt15203646"
+  },
+  {
+    "title": "Amazing Stories",
+    "imdb_id": "tt5165368"
+  },
+  {
+    "title": "Acapulco",
+    "imdb_id": "tt13567344"
+  },
+  {
+    "title": "Watch the Sound with Mark Ronson",
+    "imdb_id": "tt14482570"
+  },
+  {
+    "title": "Ghostwriter",
+    "imdb_id": "tt11004134"
+  },
+  {
+    "title": "Wonder Pets: In the City",
+    "imdb_id": "tt33999695"
+  },
+  {
+    "title": "The Super Models",
+    "imdb_id": "tt13228678"
+  },
+  {
+    "title": "WeCrashed",
+    "imdb_id": "tt12005128"
+  },
+  {
+    "title": "Car\u00eame",
+    "imdb_id": "tt6418084"
+  },
+  {
+    "title": "John Lennon: Murder Without a Trial",
+    "imdb_id": "tt29627149"
+  },
+  {
+    "title": "Little Voice",
+    "imdb_id": "tt8521376"
+  },
+  {
+    "title": "The Reluctant Traveler with Eugene Levy",
+    "imdb_id": "tt15822846"
+  },
+  {
+    "title": "Dr. Brain",
+    "imdb_id": "tt15758760"
+  },
+  {
+    "title": "The Afterparty",
+    "imdb_id": "tt12614214"
+  },
+  {
+    "title": "Mythic Quest",
+    "imdb_id": "tt8879940"
+  },
+  {
+    "title": "La Maison",
+    "imdb_id": "tt29766398"
+  },
+  {
+    "title": "Harriet the Spy",
+    "imdb_id": "tt12882128"
+  },
+  {
+    "title": "Sugar",
+    "imdb_id": "tt16418808"
+  },
+  {
+    "title": "Dear Edward",
+    "imdb_id": "tt17543896"
+  },
+  {
+    "title": "Your Friends & Neighbors",
+    "imdb_id": "tt30459041"
+  },
+  {
+    "title": "Visible: Out on Television",
+    "imdb_id": "tt11610268"
+  },
+  {
+    "title": "They Call Me Magic",
+    "imdb_id": "tt17736322"
+  },
+  {
+    "title": "The Problem with Jon Stewart",
+    "imdb_id": "tt15084142"
+  },
+  {
+    "title": "Invasion",
+    "imdb_id": "tt9737326"
+  },
+  {
+    "title": "The Line",
+    "imdb_id": "tt14475988"
+  },
+  {
+    "title": "The Buccaneers",
+    "imdb_id": "tt21108774"
+  },
+  {
+    "title": "Interrupting Chicken",
+    "imdb_id": "tt21942798"
+  },
+  {
+    "title": "Cowboy Cartel",
+    "imdb_id": "tt33030134"
+  },
+  {
+    "title": "Truth Be Told",
+    "imdb_id": "tt7821582"
   }
 ]

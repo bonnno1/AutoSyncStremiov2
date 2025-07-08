@@ -1,102 +1,182 @@
 [
   {
-    "title": "Squid Game",
-    "imdb_id": "tt10919420",
-    "type": "series"
+    "title": "Em Busca da Casa Autom\u00e1tica",
+    "imdb_id": "tt12423408"
   },
   {
-    "title": "Doraemon",
-    "imdb_id": "tt4083422",
-    "type": "series"
+    "title": "Expedition Earth",
+    "imdb_id": "tt2307279"
   },
   {
-    "title": "Teen Titans Go!",
-    "imdb_id": "tt2771780",
-    "type": "series"
+    "title": "Tighty-Whitey Troublemakers!",
+    "imdb_id": "tt37096196"
   },
   {
-    "title": "Ninja Boy Rantaro",
-    "imdb_id": "tt0306365",
-    "type": "series"
+    "title": "The Sun Shines Different in Miami",
+    "imdb_id": "tt36808159"
   },
   {
-    "title": "Pokémon",
-    "imdb_id": "tt0168366",
-    "type": "series"
+    "title": "The Adventures of Vyond City",
+    "imdb_id": "tt33163964"
   },
   {
-    "title": "Jake and the Never Land Pirates",
-    "imdb_id": "tt1833403",
-    "type": "series"
+    "title": "Digital Vids",
+    "imdb_id": "tt33163983"
   },
   {
-    "title": "Ninja Hattori-kun",
-    "imdb_id": "tt2787558",
-    "type": "series"
+    "title": "Raja Shivchhatrapati",
+    "imdb_id": "tt2354568"
   },
   {
-    "title": "NCIS: New Orleans",
-    "imdb_id": "tt3560084",
-    "type": "series"
+    "title": "The Inhabitants",
+    "imdb_id": "tt36165031"
   },
   {
-    "title": "Rick and Morty",
-    "imdb_id": "tt2861424",
-    "type": "series"
+    "title": "Tchan, a Grande Sacada",
+    "imdb_id": "tt0209814"
   },
   {
-    "title": "WWE NXT UK",
-    "imdb_id": "tt9425798",
-    "type": "series"
+    "title": "Onmyo Kaiten Re:Birth Verse",
+    "imdb_id": "tt36271422"
   },
   {
-    "title": "Star Trek: Voyager",
-    "imdb_id": "tt0112178",
-    "type": "series"
+    "title": "Orphan Hearts",
+    "imdb_id": "tt27443345"
   },
   {
-    "title": "Brothers",
-    "imdb_id": "tt6155146",
-    "type": "series"
+    "title": "Phitsawat Kham Phop",
+    "imdb_id": "tt21266086"
   },
   {
-    "title": "The Curse of Oak Island",
-    "imdb_id": "tt3455408",
-    "type": "series"
+    "title": "WWE Superstar Profiles",
+    "imdb_id": "tt35288922"
   },
   {
-    "title": "Big Hero 6 The Series",
-    "imdb_id": "tt5515212",
-    "type": "series"
+    "title": "Secrets of the Silent Witch",
+    "imdb_id": "tt33317800"
   },
   {
-    "title": "Batman: The Brave and the Bold",
-    "imdb_id": "tt1213218",
-    "type": "series"
+    "title": "Kung Food",
+    "imdb_id": "tt3519172"
   },
   {
-    "title": "NCIS",
-    "imdb_id": "tt0364845",
-    "type": "series"
+    "title": "Hak Lin Chang (2017)",
+    "imdb_id": "tt29516218"
   },
   {
-    "title": "Warehouse 13",
-    "imdb_id": "tt1132290",
-    "type": "series"
+    "title": "Kamen Rider Stronger",
+    "imdb_id": "tt0156672"
   },
   {
-    "title": "Prison Break",
-    "imdb_id": "tt0455275",
-    "type": "series"
+    "title": "Kamen Rider Amazon",
+    "imdb_id": "tt0156212"
   },
   {
-    "title": "Transformers: Rescue Bots",
-    "imdb_id": "tt2139371",
-    "type": "series"
+    "title": "Kamen Rider X",
+    "imdb_id": "tt0156678"
   },
   {
-    "title": "Lassie",
-    "imdb_id": "tt0046617",
-    "type": "series"
+    "title": "Incognito",
+    "imdb_id": "tt34852944"
+  },
+  {
+    "title": "Zukkoke Knight: Don De La Mancha (\u305a\u3063\u3053\u3051\u30ca\u30a4\u30c8\u3000\u30c9\u30f3\u30c7\u30e9\u30de\u30f3\u30c1\u30e3)",
+    "imdb_id": "tt1947929"
+  },
+  {
+    "title": "Kamen Rider Black RX",
+    "imdb_id": "tt0151178"
+  },
+  {
+    "title": "Kamen Rider Gavv",
+    "imdb_id": "tt32333001"
+  },
+  {
+    "title": "Kamen Rider Blade",
+    "imdb_id": "tt1491939"
+  },
+  {
+    "title": "Kamen Rider Fourze",
+    "imdb_id": "tt2074027"
+  },
+  {
+    "title": "Kamen Rider Hibiki",
+    "imdb_id": "tt0454653"
+  },
+  {
+    "title": "Kamen Rider Gaim",
+    "imdb_id": "tt3079058"
+  },
+  {
+    "title": "Kamen Rider Ex-Aid",
+    "imdb_id": "tt5813014"
+  },
+  {
+    "title": "Kamen Rider Gotchard",
+    "imdb_id": "tt27830205"
+  },
+  {
+    "title": "Kamen Rider Revice",
+    "imdb_id": "tt14893284"
+  },
+  {
+    "title": "Masked Rider DCD",
+    "imdb_id": "tt1473235"
+  },
+  {
+    "title": "Kamen Rider Kiva",
+    "imdb_id": "tt1526067"
+  },
+  {
+    "title": "Kamen Rider Den-O",
+    "imdb_id": "tt0997404"
+  },
+  {
+    "title": "Unsinkable",
+    "imdb_id": "tt13108124"
+  },
+  {
+    "title": "Gate Keepers 21",
+    "imdb_id": "tt3488994"
+  },
+  {
+    "title": "GameTechChannel",
+    "imdb_id": "tt11147754"
+  },
+  {
+    "title": "Kamen Rider Saber",
+    "imdb_id": "tt12605548"
+  },
+  {
+    "title": "The King of Braves GaoGaiGar FINAL: GRAND GLORIOUS GATHERING",
+    "imdb_id": "tt6795518"
+  },
+  {
+    "title": "Fortnite: Taco Bowl LVIII Tournament",
+    "imdb_id": "tt32350898"
+  },
+  {
+    "title": "Baahubali: Crown of Blood",
+    "imdb_id": "tt32263319"
+  },
+  {
+    "title": "Arjen: Azap Yolu",
+    "imdb_id": "tt31704015"
+  },
+  {
+    "title": "MK Ultra",
+    "imdb_id": "tt7533594"
+  },
+  {
+    "title": "Mysteriet p\u00e5 Bornholm",
+    "imdb_id": "tt31417565"
+  },
+  {
+    "title": "Rakshak India's Braves",
+    "imdb_id": "tt28614045"
+  },
+  {
+    "title": "Milo's Life",
+    "imdb_id": "tt30849174"
   }
 ]

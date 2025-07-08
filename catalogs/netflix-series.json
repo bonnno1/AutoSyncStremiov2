@@ -1,102 +1,350 @@
 [
   {
-    "title": "Squid Game",
-    "imdb_id": "tt10919420",
-    "type": "series"
+    "title": "Angi: Fake Life, True Crime",
+    "imdb_id": "tt36416165"
   },
   {
-    "title": "Sesame Street",
-    "imdb_id": "tt0063951",
-    "type": "series"
+    "title": "Pop the Balloon LIVE",
+    "imdb_id": "tt36353565"
   },
   {
-    "title": "Raw",
-    "imdb_id": "tt0185103",
-    "type": "series"
+    "title": "Garnachas: Glorious Street Food!",
+    "imdb_id": "tt36150990"
   },
   {
-    "title": "Arrested Development",
-    "imdb_id": "tt0367279",
-    "type": "series"
+    "title": "WWE Superstar Profiles",
+    "imdb_id": "tt35288922"
   },
   {
-    "title": "All Hail King Julien",
-    "imdb_id": "tt3807022",
-    "type": "series"
+    "title": "Love Never Lies: South Africa",
+    "imdb_id": "tt34724701"
   },
   {
-    "title": "The Sandman",
-    "imdb_id": "tt1751634",
-    "type": "series"
+    "title": "Rugged Rugby: Conquer or Die",
+    "imdb_id": "tt33040766"
   },
   {
-    "title": "Grace and Frankie",
-    "imdb_id": "tt3609352",
-    "type": "series"
+    "title": "Sneaky Links: Dating After Dark",
+    "imdb_id": "tt33028674"
   },
   {
-    "title": "Lucifer",
-    "imdb_id": "tt4052886",
-    "type": "series"
+    "title": "Bad Dinosaurs",
+    "imdb_id": "tt20917538"
   },
   {
-    "title": "The Umbrella Academy",
-    "imdb_id": "tt1312171",
-    "type": "series"
+    "title": "Baby Farm",
+    "imdb_id": "tt31593845"
   },
   {
-    "title": "Narcos: Mexico",
-    "imdb_id": "tt8714904",
-    "type": "series"
+    "title": "Baby Gorilla Cam",
+    "imdb_id": "tt29040715"
+  },
+  {
+    "title": "Chicken Soup for the Soul's Being Dad",
+    "imdb_id": "tt8908110"
+  },
+  {
+    "title": "Return of the Wild: The Bearman of Buncrana",
+    "imdb_id": "tt26930840"
+  },
+  {
+    "title": "Tunnel",
+    "imdb_id": "tt12020952"
+  },
+  {
+    "title": "How to Cheat Death",
+    "imdb_id": "tt36265394"
+  },
+  {
+    "title": "Takopi's Original Sin",
+    "imdb_id": "tt36988358"
+  },
+  {
+    "title": "Mechamato",
+    "imdb_id": "tt24215446"
+  },
+  {
+    "title": "ThamePo - Heart That Skips A Beat",
+    "imdb_id": "tt32226950"
+  },
+  {
+    "title": "Offline Love",
+    "imdb_id": "tt35510210"
+  },
+  {
+    "title": "Costa!! The Series",
+    "imdb_id": "tt28247651"
+  },
+  {
+    "title": "Forget You Not",
+    "imdb_id": "tt31909033"
+  },
+  {
+    "title": "A-List to Playlist",
+    "imdb_id": "tt33038099"
+  },
+  {
+    "title": "Volume",
+    "imdb_id": "tt30693412"
+  },
+  {
+    "title": "The Deep State",
+    "imdb_id": "tt21204536"
+  },
+  {
+    "title": "To the Moon and Back",
+    "imdb_id": "tt21261242"
+  },
+  {
+    "title": "The On1y One",
+    "imdb_id": "tt33098983"
+  },
+  {
+    "title": "Izzy's Koala World",
+    "imdb_id": "tt10687266"
+  },
+  {
+    "title": "BoBoiBoy Galaxy",
+    "imdb_id": "tt10178154"
+  },
+  {
+    "title": "Go! Live Your Way",
+    "imdb_id": "tt9654086"
+  },
+  {
+    "title": "Octonauts: Above & Beyond",
+    "imdb_id": "tt15211330"
+  },
+  {
+    "title": "Chip and Potato",
+    "imdb_id": "tt9897038"
+  },
+  {
+    "title": "Masameer County",
+    "imdb_id": "tt14936146"
+  },
+  {
+    "title": "Arcane",
+    "imdb_id": "tt11126994"
+  },
+  {
+    "title": "I Told Sunset About You",
+    "imdb_id": "tt13368804"
+  },
+  {
+    "title": "Rising Impact",
+    "imdb_id": "tt30400535"
+  },
+  {
+    "title": "When Life Gives You Tangerines",
+    "imdb_id": "tt26471411"
+  },
+  {
+    "title": "All the Sharks",
+    "imdb_id": "tt37333650"
+  },
+  {
+    "title": "Devil's Advocate",
+    "imdb_id": "tt28210839"
+  },
+  {
+    "title": "Club Am\u00e9rica vs. Club Am\u00e9rica",
+    "imdb_id": "tt21448384"
+  },
+  {
+    "title": "Against the Ropes",
+    "imdb_id": "tt25031242"
+  },
+  {
+    "title": "The Signing",
+    "imdb_id": "tt17280590"
+  },
+  {
+    "title": "Old Friends",
+    "imdb_id": "tt7887068"
+  },
+  {
+    "title": "Rainbow High",
+    "imdb_id": "tt13488080"
   },
   {
     "title": "Stranger Things",
-    "imdb_id": "tt4574334",
-    "type": "series"
+    "imdb_id": "tt4574334"
   },
   {
-    "title": "Squid Game: The Challenge",
-    "imdb_id": "tt28104766",
-    "type": "series"
+    "title": "Heartstopper",
+    "imdb_id": "tt10638036"
   },
   {
-    "title": "Black Mirror",
-    "imdb_id": "tt2085059",
-    "type": "series"
+    "title": "Mighty Little Bheem: Diwali",
+    "imdb_id": "tt10987498"
   },
   {
-    "title": "Ada Twist, Scientist",
-    "imdb_id": "tt13241650",
-    "type": "series"
+    "title": "AMERICA'S SWEETHEARTS: Dallas Cowboys Cheerleaders",
+    "imdb_id": "tt32146518"
   },
   {
-    "title": "Virgin River",
-    "imdb_id": "tt9077530",
-    "type": "series"
+    "title": "BoJack Horseman",
+    "imdb_id": "tt3398228"
   },
   {
-    "title": "Emily in Paris",
-    "imdb_id": "tt8962124",
-    "type": "series"
+    "title": "Weak Hero",
+    "imdb_id": "tt20234568"
   },
   {
-    "title": "Love, Death & Robots",
-    "imdb_id": "tt9561862",
-    "type": "series"
+    "title": "Young Royals",
+    "imdb_id": "tt14664414"
   },
   {
-    "title": "Home: Adventures with Tip & Oh",
-    "imdb_id": "tt5759196",
-    "type": "series"
+    "title": "You Are My Makeup Artist",
+    "imdb_id": "tt21036240"
   },
   {
-    "title": "Sex Education",
-    "imdb_id": "tt7767422",
-    "type": "series"
+    "title": "I Cannot Reach You",
+    "imdb_id": "tt29332871"
   },
   {
-    "title": "Olympo",
-    "imdb_id": "tt33029688",
-    "type": "series"
+    "title": "The Umbrella Academy",
+    "imdb_id": "tt1312171"
+  },
+  {
+    "title": "Hospital Playlist",
+    "imdb_id": "tt11769304"
+  },
+  {
+    "title": "Heo's Diner",
+    "imdb_id": "tt36302714"
+  },
+  {
+    "title": "Khakee: The Bengal Chapter",
+    "imdb_id": "tt34569030"
+  },
+  {
+    "title": "Attack on London: Hunting the 7/7 Bombers",
+    "imdb_id": "tt37182077"
+  },
+  {
+    "title": "Culinary Class Wars",
+    "imdb_id": "tt33040785"
+  },
+  {
+    "title": "Jentry Chau vs the Underworld",
+    "imdb_id": "tt27368999"
+  },
+  {
+    "title": "Pi\u00f1ata Masters!",
+    "imdb_id": "tt23826750"
+  },
+  {
+    "title": "Wonderoos",
+    "imdb_id": "tt13353456"
+  },
+  {
+    "title": "I, Myself",
+    "imdb_id": "tt12252316"
+  },
+  {
+    "title": "True: Terrific Tales",
+    "imdb_id": "tt12140808"
+  },
+  {
+    "title": "True and the Rainbow Kingdom",
+    "imdb_id": "tt5607658"
+  },
+  {
+    "title": "BLUE EYE SAMURAI",
+    "imdb_id": "tt13309742"
+  },
+  {
+    "title": "Our Planet",
+    "imdb_id": "tt9253866"
+  },
+  {
+    "title": "Girl from Nowhere",
+    "imdb_id": "tt8824648"
+  },
+  {
+    "title": "Island of the Sea Wolves",
+    "imdb_id": "tt22180926"
+  },
+  {
+    "title": "Chef's Table: France",
+    "imdb_id": "tt6088326"
+  },
+  {
+    "title": "Cyberpunk: Edgerunners",
+    "imdb_id": "tt12590266"
+  },
+  {
+    "title": "Captains of the World",
+    "imdb_id": "tt26218818"
+  },
+  {
+    "title": "Be Eternal: Champions of America",
+    "imdb_id": "tt23762464"
+  },
+  {
+    "title": "Care Bears and Cousins",
+    "imdb_id": "tt4680360"
+  },
+  {
+    "title": "My Holo Love",
+    "imdb_id": "tt11058644"
+  },
+  {
+    "title": "She-Ra and the Princesses of Power",
+    "imdb_id": "tt7745956"
+  },
+  {
+    "title": "Love Like a K-Drama",
+    "imdb_id": "tt28628302"
+  },
+  {
+    "title": "The Queen's Gambit",
+    "imdb_id": "tt10048342"
+  },
+  {
+    "title": "Star Wars: The Clone Wars",
+    "imdb_id": "tt0458290"
+  },
+  {
+    "title": "Super PupZ",
+    "imdb_id": "tt18469966"
+  },
+  {
+    "title": "BEASTARS",
+    "imdb_id": "tt11043632"
+  },
+  {
+    "title": "Record of Ragnarok",
+    "imdb_id": "tt13676344"
+  },
+  {
+    "title": "Go, Dog. Go!",
+    "imdb_id": "tt10687202"
+  },
+  {
+    "title": "Tomorrow",
+    "imdb_id": "tt18926162"
+  },
+  {
+    "title": "The Glory",
+    "imdb_id": "tt21344706"
+  },
+  {
+    "title": "Lucifer",
+    "imdb_id": "tt4052886"
+  },
+  {
+    "title": "Trollhunters: Tales of Arcadia",
+    "imdb_id": "tt1734135"
+  },
+  {
+    "title": "Romantic Killer",
+    "imdb_id": "tt21991254"
+  },
+  {
+    "title": "The Boyfriend",
+    "imdb_id": "tt32551794"
   }
 ]

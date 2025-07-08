@@ -1,102 +1,394 @@
 [
   {
-    "title": "Ironheart",
-    "imdb_id": "tt13623126",
-    "type": "series"
+    "title": "Knock-Off",
+    "imdb_id": "tt33269792"
   },
   {
-    "title": "Andor",
-    "imdb_id": "tt9253284",
-    "type": "series"
+    "title": "NCT 127: The Lost Boys",
+    "imdb_id": "tt28306746"
   },
   {
-    "title": "Loki",
-    "imdb_id": "tt9140554",
-    "type": "series"
+    "title": "Camale\u00f3n: El pasado no cambia",
+    "imdb_id": "tt27763255"
+  },
+  {
+    "title": "Takopi's Original Sin",
+    "imdb_id": "tt36988358"
+  },
+  {
+    "title": "In Vogue: The 90s",
+    "imdb_id": "tt28338483"
+  },
+  {
+    "title": "4Ever",
+    "imdb_id": "tt17594276"
+  },
+  {
+    "title": "The Low Tone Club",
+    "imdb_id": "tt15559540"
+  },
+  {
+    "title": "Are You Sure?!",
+    "imdb_id": "tt32828209"
+  },
+  {
+    "title": "Lucrecia: A Murder in Madrid",
+    "imdb_id": "tt31844445"
+  },
+  {
+    "title": "Beyond the Clouds",
+    "imdb_id": "tt13496456"
+  },
+  {
+    "title": "BTS Monuments: Beyond the Star",
+    "imdb_id": "tt23871680"
+  },
+  {
+    "title": "Reminder",
+    "imdb_id": "tt34995624"
+  },
+  {
+    "title": "Love, Victor",
+    "imdb_id": "tt10166602"
+  },
+  {
+    "title": "Boris",
+    "imdb_id": "tt1020116"
+  },
+  {
+    "title": "X-Men '97",
+    "imdb_id": "tt16026746"
+  },
+  {
+    "title": "Ed Sheeran: The Sum of It All",
+    "imdb_id": "tt27192366"
+  },
+  {
+    "title": "\uff1cJUNG KOOK: I AM STILL\uff1e THE ORIGINAL",
+    "imdb_id": "tt34506719"
+  },
+  {
+    "title": "Choir",
+    "imdb_id": "tt28080721"
+  },
+  {
+    "title": "The Voice Brasil",
+    "imdb_id": "tt2162116"
   },
   {
     "title": "Star Wars: The Clone Wars",
-    "imdb_id": "tt0458290",
-    "type": "series"
+    "imdb_id": "tt0458290"
   },
   {
-    "title": "Star Wars: The Bad Batch",
-    "imdb_id": "tt12708542",
-    "type": "series"
+    "title": "Moving",
+    "imdb_id": "tt24640580"
   },
   {
-    "title": "Star Wars: Visions",
-    "imdb_id": "tt13622982",
-    "type": "series"
+    "title": "A Town Without Seasons",
+    "imdb_id": "tt28347811"
   },
   {
-    "title": "Dancing with the Stars",
-    "imdb_id": "tt0463398",
-    "type": "series"
-  },
-  {
-    "title": "Daredevil: Born Again",
-    "imdb_id": "tt18923754",
-    "type": "series"
+    "title": "Devil in the Family: The Fall of Ruby Franke",
+    "imdb_id": "tt35309276"
   },
   {
     "title": "The Mandalorian",
-    "imdb_id": "tt8111088",
-    "type": "series"
+    "imdb_id": "tt8111088"
   },
   {
-    "title": "Marvel Studios Legends",
-    "imdb_id": "tt13650480",
-    "type": "series"
+    "title": "Vigilante",
+    "imdb_id": "tt27458539"
   },
   {
-    "title": "What If...?",
-    "imdb_id": "tt10168312",
-    "type": "series"
+    "title": "Light Shop",
+    "imdb_id": "tt31014115"
   },
   {
-    "title": "The Falcon and the Winter Soldier",
-    "imdb_id": "tt9208876",
-    "type": "series"
+    "title": "The Beatles: Get Back",
+    "imdb_id": "tt9735318"
   },
   {
-    "title": "Obi-Wan Kenobi",
-    "imdb_id": "tt8466564",
-    "type": "series"
+    "title": "Seoul Busters",
+    "imdb_id": "tt32482847"
   },
   {
-    "title": "Moon Knight",
-    "imdb_id": "tt10234724",
-    "type": "series"
+    "title": "Checo P\u00e9rez: \u00a1No te rindas, cabr#n!",
+    "imdb_id": "tt32844134"
   },
   {
-    "title": "Secret Invasion",
-    "imdb_id": "tt13157618",
-    "type": "series"
+    "title": "Daddies on Request",
+    "imdb_id": "tt15373506"
+  },
+  {
+    "title": "Call It Love",
+    "imdb_id": "tt26228312"
+  },
+  {
+    "title": "Revenge of Others",
+    "imdb_id": "tt23032890"
+  },
+  {
+    "title": "Animals Up Close with Bertie Gregory",
+    "imdb_id": "tt28550655"
+  },
+  {
+    "title": "Andor",
+    "imdb_id": "tt9253284"
+  },
+  {
+    "title": "Unmasked",
+    "imdb_id": "tt31390522"
+  },
+  {
+    "title": "Benefits with Friends",
+    "imdb_id": "tt27517632"
+  },
+  {
+    "title": "The Worst of Evil",
+    "imdb_id": "tt20600022"
+  },
+  {
+    "title": "L-Pop",
+    "imdb_id": "tt20447008"
+  },
+  {
+    "title": "Double Crossed: Sooner or Later, You'll Pay the Price",
+    "imdb_id": "tt27526081"
   },
   {
     "title": "WandaVision",
-    "imdb_id": "tt9140560",
-    "type": "series"
+    "imdb_id": "tt9140560"
   },
   {
-    "title": "Soy Luna",
-    "imdb_id": "tt5189554",
-    "type": "series"
+    "title": "Star Wars: The Bad Batch",
+    "imdb_id": "tt12708542"
+  },
+  {
+    "title": "Invisible",
+    "imdb_id": "tt26658061"
+  },
+  {
+    "title": "The Imagineering Story",
+    "imdb_id": "tt9331982"
+  },
+  {
+    "title": "Loki",
+    "imdb_id": "tt9140554"
+  },
+  {
+    "title": "SAND LAND: THE SERIES",
+    "imdb_id": "tt29958256"
+  },
+  {
+    "title": "Limitless with Chris Hemsworth",
+    "imdb_id": "tt11714334"
+  },
+  {
+    "title": "What If...?",
+    "imdb_id": "tt10168312"
+  },
+  {
+    "title": "Bref",
+    "imdb_id": "tt2044128"
+  },
+  {
+    "title": "Bellas artes",
+    "imdb_id": "tt30141000"
+  },
+  {
+    "title": "The Boss",
+    "imdb_id": "tt14362262"
+  },
+  {
+    "title": "Star Wars: Tales of the Jedi",
+    "imdb_id": "tt20723374"
+  },
+  {
+    "title": "A Shop for Killers",
+    "imdb_id": "tt26450613"
+  },
+  {
+    "title": "The Artful Dodger",
+    "imdb_id": "tt20285780"
+  },
+  {
+    "title": "Win or Lose",
+    "imdb_id": "tt13624052"
+  },
+  {
+    "title": "Code Geass: Roz\u00e9 of the Recapture",
+    "imdb_id": "tt13592980"
+  },
+  {
+    "title": "Kiss Sixth Sense",
+    "imdb_id": "tt20235634"
+  },
+  {
+    "title": "Daredevil: Born Again",
+    "imdb_id": "tt18923754"
+  },
+  {
+    "title": "The Ch\u00e1vez",
+    "imdb_id": "tt28149559"
+  },
+  {
+    "title": "Ghosts - Fant\u00f4mes en h\u00e9ritage",
+    "imdb_id": "tt32767912"
+  },
+  {
+    "title": "Lambert vs. Lambert: Over His Dead Body",
+    "imdb_id": "tt27720255"
+  },
+  {
+    "title": "Super Junior: The Last Man Standing",
+    "imdb_id": "tt24580490"
+  },
+  {
+    "title": "Spartans: A True Story",
+    "imdb_id": "tt15664022"
+  },
+  {
+    "title": "Ghost Force",
+    "imdb_id": "tt5797440"
+  },
+  {
+    "title": "On Pointe",
+    "imdb_id": "tt11097576"
+  },
+  {
+    "title": "High School Musical: The Musical: The Series",
+    "imdb_id": "tt8510382"
+  },
+  {
+    "title": "Big Shot",
+    "imdb_id": "tt11238096"
   },
   {
     "title": "The Mighty Ducks: Game Changers",
-    "imdb_id": "tt7939768",
-    "type": "series"
+    "imdb_id": "tt7939768"
   },
   {
-    "title": "The Book of Boba Fett",
-    "imdb_id": "tt13668894",
-    "type": "series"
+    "title": "Soy Luna",
+    "imdb_id": "tt5189554"
+  },
+  {
+    "title": "It Was Always Me",
+    "imdb_id": "tt14584108"
+  },
+  {
+    "title": "Rennervations",
+    "imdb_id": "tt18069838"
+  },
+  {
+    "title": "Dream Productions",
+    "imdb_id": "tt33088401"
+  },
+  {
+    "title": "Lost Man Found",
+    "imdb_id": "tt21149092"
+  },
+  {
+    "title": "Hyper Knife",
+    "imdb_id": "tt35378081"
+  },
+  {
+    "title": "Brawn: The Impossible Formula 1 Story",
+    "imdb_id": "tt22297946"
+  },
+  {
+    "title": "Selenkay",
+    "imdb_id": "tt15675338"
+  },
+  {
+    "title": "Hawkeye",
+    "imdb_id": "tt10160804"
+  },
+  {
+    "title": "The Montaners",
+    "imdb_id": "tt14488928"
+  },
+  {
+    "title": "Your Friendly Neighborhood Spider-Man",
+    "imdb_id": "tt16027074"
+  },
+  {
+    "title": "The Best Heart Attack of My Life",
+    "imdb_id": "tt32751696"
+  },
+  {
+    "title": "The Absent Voice",
+    "imdb_id": "tt27762425"
+  },
+  {
+    "title": "Rookie Cops",
+    "imdb_id": "tt17473062"
+  },
+  {
+    "title": "Mama Cake",
+    "imdb_id": "tt28145818"
+  },
+  {
+    "title": "Because We Forget Everything",
+    "imdb_id": "tt22055018"
+  },
+  {
+    "title": "Reading Again Mafalda",
+    "imdb_id": "tt28212265"
   },
   {
     "title": "LIGHT & MAGIC",
-    "imdb_id": "tt19896784",
-    "type": "series"
+    "imdb_id": "tt19896784"
+  },
+  {
+    "title": "Earth Moods",
+    "imdb_id": "tt14260676"
+  },
+  {
+    "title": "The Impossible Heir",
+    "imdb_id": "tt26693681"
+  },
+  {
+    "title": "Doogie Kamealoha, M.D.",
+    "imdb_id": "tt12225230"
+  },
+  {
+    "title": "C.H.U.E.C.O",
+    "imdb_id": "tt27282525"
+  },
+  {
+    "title": "Parallels",
+    "imdb_id": "tt8590080"
+  },
+  {
+    "title": "Kingdom of the White Wolf",
+    "imdb_id": "tt10704300"
+  },
+  {
+    "title": "Moon Knight",
+    "imdb_id": "tt10234724"
+  },
+  {
+    "title": "Disney Intertwined",
+    "imdb_id": "tt13891870"
+  },
+  {
+    "title": "Isabel Preysler: My Christmas",
+    "imdb_id": "tt30149733"
+  },
+  {
+    "title": "Secrets of the Whales",
+    "imdb_id": "tt12824750"
+  },
+  {
+    "title": "Prop Culture",
+    "imdb_id": "tt10162496"
+  },
+  {
+    "title": "Everything Is Fine",
+    "imdb_id": "tt21913366"
+  },
+  {
+    "title": "Aruna's Magic",
+    "imdb_id": "tt16225592"
   }
 ]

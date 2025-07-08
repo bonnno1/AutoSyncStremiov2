@@ -1,102 +1,194 @@
 [
   {
     "title": "Ballerina",
-    "imdb_id": "tt7181546",
-    "type": "movie"
+    "imdb_id": "tt7181546"
   },
   {
     "title": "Jurassic World Rebirth",
-    "imdb_id": "tt31036941",
-    "type": "movie"
+    "imdb_id": "tt31036941"
   },
   {
     "title": "Bring Her Back",
-    "imdb_id": "tt32246771",
-    "type": "movie"
+    "imdb_id": "tt32246771"
   },
   {
     "title": "The Ritual",
-    "imdb_id": "tt32194932",
-    "type": "movie"
+    "imdb_id": "tt32194932"
   },
   {
     "title": "How to Train Your Dragon",
-    "imdb_id": "tt26743210",
-    "type": "movie"
+    "imdb_id": "tt26743210"
   },
   {
     "title": "F1",
-    "imdb_id": "tt16311594",
-    "type": "movie"
+    "imdb_id": "tt16311594"
   },
   {
     "title": "28 Years Later",
-    "imdb_id": "tt10548174",
-    "type": "movie"
+    "imdb_id": "tt10548174"
   },
   {
     "title": "M3GAN 2.0",
-    "imdb_id": "tt26342662",
-    "type": "movie"
+    "imdb_id": "tt26342662"
   },
   {
     "title": "Elio",
-    "imdb_id": "tt4900148",
-    "type": "movie"
+    "imdb_id": "tt4900148"
   },
   {
     "title": "Karate Kid: Legends",
-    "imdb_id": "tt1674782",
-    "type": "movie"
+    "imdb_id": "tt1674782"
   },
   {
     "title": "The Phoenician Scheme",
-    "imdb_id": "tt30840798",
-    "type": "movie"
+    "imdb_id": "tt30840798"
   },
   {
     "title": "The Shrouds",
-    "imdb_id": "tt20212786",
-    "type": "movie"
+    "imdb_id": "tt20212786"
   },
   {
     "title": "Materialists",
-    "imdb_id": "tt30253473",
-    "type": "movie"
+    "imdb_id": "tt30253473"
   },
   {
     "title": "Thug Life",
-    "imdb_id": "tt23398540",
-    "type": "movie"
+    "imdb_id": "tt23398540"
   },
   {
     "title": "Smurfs",
-    "imdb_id": "tt18069420",
-    "type": "movie"
+    "imdb_id": "tt18069420"
   },
   {
     "title": "Dangerous Animals",
-    "imdb_id": "tt32299316",
-    "type": "movie"
+    "imdb_id": "tt32299316"
   },
   {
     "title": "Beating Hearts",
-    "imdb_id": "tt27490099",
-    "type": "movie"
+    "imdb_id": "tt27490099"
   },
   {
     "title": "Kuberaa",
-    "imdb_id": "tt23846482",
-    "type": "movie"
+    "imdb_id": "tt23846482"
   },
   {
     "title": "Sardaarji 3",
-    "imdb_id": "tt33022037",
-    "type": "movie"
+    "imdb_id": "tt33022037"
   },
   {
     "title": "The Unholy Trinity",
-    "imdb_id": "tt6300910",
-    "type": "movie"
+    "imdb_id": "tt6300910"
+  },
+  {
+    "title": "Love Guru",
+    "imdb_id": "tt33054756"
+  },
+  {
+    "title": "Jane Austen Wrecked My Life",
+    "imdb_id": "tt31112509"
+  },
+  {
+    "title": "One to One: John & Yoko",
+    "imdb_id": "tt33029955"
+  },
+  {
+    "title": "Miley Cyrus: Something Beautiful",
+    "imdb_id": "tt36590404"
+  },
+  {
+    "title": "Peppa Meets the Baby Cinema Experience",
+    "imdb_id": "tt36414406"
+  },
+  {
+    "title": "The Great Lillian Hall",
+    "imdb_id": "tt14260566"
+  },
+  {
+    "title": "Hans Zimmer & Friends: Diamond in the Desert",
+    "imdb_id": "tt35616060"
+  },
+  {
+    "title": "Funny Birds",
+    "imdb_id": "tt20414046"
+  },
+  {
+    "title": "Only We Know",
+    "imdb_id": "tt36409255"
+  },
+  {
+    "title": "Saunkan Saunkanay 2",
+    "imdb_id": "tt34037996"
+  },
+  {
+    "title": "K\u014dk\u0101",
+    "imdb_id": "tt11916460"
+  },
+  {
+    "title": "Hold Me Close",
+    "imdb_id": "tt31938709"
+  },
+  {
+    "title": "Baggage",
+    "imdb_id": "tt34258094"
+  },
+  {
+    "title": "Remember Belsen",
+    "imdb_id": "tt27741912"
+  },
+  {
+    "title": "The Wolves Always Come at Night",
+    "imdb_id": "tt30768181"
+  },
+  {
+    "title": "Ellis Park",
+    "imdb_id": "tt32879751"
+  },
+  {
+    "title": "Make it Look Real",
+    "imdb_id": "tt33400208"
+  },
+  {
+    "title": "Blood Sisters",
+    "imdb_id": "tt32538942"
+  },
+  {
+    "title": "Nightfall: A Paranormal Investigation",
+    "imdb_id": "tt36348026"
+  },
+  {
+    "title": "Doghouse",
+    "imdb_id": "tt30013579"
+  },
+  {
+    "title": "Rear View Mirror",
+    "imdb_id": "tt30647553"
+  },
+  {
+    "title": "The Pill",
+    "imdb_id": "tt37424089"
+  },
+  {
+    "title": "Mates",
+    "imdb_id": "tt36872866"
+  },
+  {
+    "title": "Interview With A Hero",
+    "imdb_id": "tt36872848"
+  },
+  {
+    "title": "Moment",
+    "imdb_id": "tt36872879"
+  },
+  {
+    "title": "Violet",
+    "imdb_id": "tt35671555"
+  },
+  {
+    "title": "Shorty and the Legend of the Enchanted Reef",
+    "imdb_id": "tt15036276"
+  },
+  {
+    "title": "Closed",
+    "imdb_id": "tt33381397"
   }
 ]

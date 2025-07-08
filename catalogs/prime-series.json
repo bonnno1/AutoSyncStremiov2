@@ -1,102 +1,358 @@
 [
   {
-    "title": "Vikings",
-    "imdb_id": "tt2306299",
-    "type": "series"
+    "title": "Esports World Cup: Level Up",
+    "imdb_id": "tt37109800"
   },
   {
-    "title": "Dirty Linen",
-    "imdb_id": "tt24013752",
-    "type": "series"
+    "title": "Marry My Husband: Japan",
+    "imdb_id": "tt36838547"
   },
   {
-    "title": "The Boys",
-    "imdb_id": "tt1190634",
-    "type": "series"
+    "title": "Girls of Copenhagen",
+    "imdb_id": "tt36131950"
   },
   {
-    "title": "Neighbours",
-    "imdb_id": "tt0088580",
-    "type": "series"
+    "title": "Earnhardt",
+    "imdb_id": "tt32367551"
   },
   {
-    "title": "Mozart in the Jungle",
-    "imdb_id": "tt3502172",
-    "type": "series"
+    "title": "The Wimbledon Killer",
+    "imdb_id": "tt36150819"
   },
   {
-    "title": "Countdown",
-    "imdb_id": "tt32559610",
-    "type": "series"
+    "title": "Atat\u00fcrk 1881-1919",
+    "imdb_id": "tt15676170"
   },
   {
-    "title": "Reacher",
-    "imdb_id": "tt9288030",
-    "type": "series"
+    "title": "Saving Grace",
+    "imdb_id": "tt32962604"
   },
   {
-    "title": "The Lord of the Rings: The Rings of Power",
-    "imdb_id": "tt7631058",
-    "type": "series"
+    "title": "Ingebrigtsen: Born to Run",
+    "imdb_id": "tt33498743"
   },
   {
-    "title": "Bosch",
-    "imdb_id": "tt3502248",
-    "type": "series"
+    "title": "Neighbors Forever",
+    "imdb_id": "tt32432630"
   },
   {
-    "title": "The Grand Tour",
-    "imdb_id": "tt5712554",
-    "type": "series"
+    "title": "Jonathan & Jesus",
+    "imdb_id": "tt30787627"
   },
   {
-    "title": "INVINCIBLE",
-    "imdb_id": "tt6741278",
-    "type": "series"
+    "title": "LOL: Last One Laughing Denmark",
+    "imdb_id": "tt30323971"
   },
   {
-    "title": "Mentiras, The Series",
-    "imdb_id": "tt31690920",
-    "type": "series"
+    "title": "Fit Check: Confessions of an Ukay Queen",
+    "imdb_id": "tt28089200"
   },
   {
-    "title": "The Summer I Turned Pretty",
-    "imdb_id": "tt14016500",
-    "type": "series"
+    "title": "Victoria Avenging Psychologist",
+    "imdb_id": "tt15331666"
   },
   {
-    "title": "Carnival Row",
-    "imdb_id": "tt0489974",
-    "type": "series"
+    "title": "If We Had Super Powers",
+    "imdb_id": "tt10801384"
   },
   {
-    "title": "The Wheel of Time",
-    "imdb_id": "tt7462410",
-    "type": "series"
+    "title": "Tunadas",
+    "imdb_id": "tt10361854"
   },
   {
-    "title": "The Expanse",
-    "imdb_id": "tt3230854",
-    "type": "series"
+    "title": "Transplantes",
+    "imdb_id": "tt10361768"
   },
   {
-    "title": "We Were Liars",
-    "imdb_id": "tt3914054",
-    "type": "series"
+    "title": "Os Hermanos Perdidos no Brasil",
+    "imdb_id": "tt5785800"
+  },
+  {
+    "title": "Crimes Perversos",
+    "imdb_id": "tt8478480"
+  },
+  {
+    "title": "Mulheres em A\u00e7\u00e3o",
+    "imdb_id": "tt6048056"
+  },
+  {
+    "title": "\u00c0 Brasileira",
+    "imdb_id": "tt10293068"
+  },
+  {
+    "title": "Eu Odeio Meu Chefe!",
+    "imdb_id": "tt5976296"
+  },
+  {
+    "title": "Os C&D",
+    "imdb_id": "tt5769910"
+  },
+  {
+    "title": "Making Of",
+    "imdb_id": "tt10363712"
+  },
+  {
+    "title": "A Turma do Sextou",
+    "imdb_id": "tt14317092"
+  },
+  {
+    "title": "White Night",
+    "imdb_id": "tt16358342"
+  },
+  {
+    "title": "Ringside",
+    "imdb_id": "tt13188058"
+  },
+  {
+    "title": "M",
+    "imdb_id": "tt8570040"
+  },
+  {
+    "title": "Imperial Brazil",
+    "imdb_id": "tt12438340"
+  },
+  {
+    "title": "Hist\u00f3ria Secreta do Pop Brasileiro",
+    "imdb_id": "tt12574218"
+  },
+  {
+    "title": "Bulge Bracket",
+    "imdb_id": "tt9173376"
+  },
+  {
+    "title": "Haunted State",
+    "imdb_id": "tt9621922"
+  },
+  {
+    "title": "Canada's Got Talent",
+    "imdb_id": "tt2180809"
+  },
+  {
+    "title": "Head Over Heels",
+    "imdb_id": "tt37146661"
+  },
+  {
+    "title": "The Reaping",
+    "imdb_id": "tt5674704"
+  },
+  {
+    "title": "Comedy Island Indonesia",
+    "imdb_id": "tt29688988"
+  },
+  {
+    "title": "Takopi's Original Sin",
+    "imdb_id": "tt36988358"
+  },
+  {
+    "title": "Dear You",
+    "imdb_id": "tt32546170"
+  },
+  {
+    "title": "Sutura",
+    "imdb_id": "tt33058203"
+  },
+  {
+    "title": "Ilha da Tenta\u00e7\u00e3o: Brasil",
+    "imdb_id": "tt29472571"
+  },
+  {
+    "title": "Hope on the Street",
+    "imdb_id": "tt31389100"
+  },
+  {
+    "title": "Guardian Angels",
+    "imdb_id": "tt6037126"
+  },
+  {
+    "title": "The Secret World of Nature: Spain",
+    "imdb_id": "tt13136892"
+  },
+  {
+    "title": "Fazendas Hist\u00f3ricas",
+    "imdb_id": "tt10363720"
+  },
+  {
+    "title": "A+",
+    "imdb_id": "tt23557356"
+  },
+  {
+    "title": "La isla de las tentaciones: Argentina & Chile",
+    "imdb_id": "tt29536722"
+  },
+  {
+    "title": "Kayangan",
+    "imdb_id": "tt33982996"
+  },
+  {
+    "title": "99",
+    "imdb_id": "tt27859721"
+  },
+  {
+    "title": "PBC Gloves Off",
+    "imdb_id": "tt33499632"
+  },
+  {
+    "title": "Hostel Days",
+    "imdb_id": "tt28306899"
+  },
+  {
+    "title": "Surf Girls",
+    "imdb_id": "tt28239237"
+  },
+  {
+    "title": "Dragamonz",
+    "imdb_id": "tt11007188"
+  },
+  {
+    "title": "Main Monica",
+    "imdb_id": "tt25274858"
+  },
+  {
+    "title": "Say Yes to the Dress: India",
+    "imdb_id": "tt16365406"
+  },
+  {
+    "title": "No-Go Zones - The World's Toughest Places",
+    "imdb_id": "tt13261578"
+  },
+  {
+    "title": "Jessy & Nessy",
+    "imdb_id": "tt10687992"
+  },
+  {
+    "title": "DRISHTIBHRAM",
+    "imdb_id": "tt10477870"
+  },
+  {
+    "title": "The Evolution of Us",
+    "imdb_id": "tt10675284"
+  },
+  {
+    "title": "Rubius Next Level Jap\u00f3n",
+    "imdb_id": "tt28305617"
+  },
+  {
+    "title": "LOL: Last One Laughing Indonesia",
+    "imdb_id": "tt32524696"
+  },
+  {
+    "title": "Par de ideotas",
+    "imdb_id": "tt36041464"
+  },
+  {
+    "title": "Laughing on the Inside",
+    "imdb_id": "tt26492186"
+  },
+  {
+    "title": "Costume Quest",
+    "imdb_id": "tt6536550"
+  },
+  {
+    "title": "Generation Wembley",
+    "imdb_id": "tt29562230"
+  },
+  {
+    "title": "Hazbin Hotel",
+    "imdb_id": "tt7216636"
+  },
+  {
+    "title": "Love You More",
+    "imdb_id": "tt6749328"
   },
   {
     "title": "The Chosen",
-    "imdb_id": "tt5622316",
-    "type": "series"
+    "imdb_id": "tt5622316"
   },
   {
-    "title": "Fallout",
-    "imdb_id": "tt12637874",
-    "type": "series"
+    "title": "INVINCIBLE",
+    "imdb_id": "tt6741278"
   },
   {
-    "title": "The Legend of Vox Machina",
-    "imdb_id": "tt11247158",
-    "type": "series"
+    "title": "No One Will Miss Us",
+    "imdb_id": "tt32896333"
+  },
+  {
+    "title": "Motorheads",
+    "imdb_id": "tt13723084"
+  },
+  {
+    "title": "Wayne Shorter: Zero Gravity",
+    "imdb_id": "tt2903346"
+  },
+  {
+    "title": "Induk Gajah",
+    "imdb_id": "tt26749347"
+  },
+  {
+    "title": "Jan Ullrich - Der Gejagte",
+    "imdb_id": "tt30225621"
+  },
+  {
+    "title": "SpongeBob DocuPants",
+    "imdb_id": "tt12762562"
+  },
+  {
+    "title": "LOL: Last One Laughing Colombia",
+    "imdb_id": "tt28502014"
+  },
+  {
+    "title": "Amazon Riders",
+    "imdb_id": "tt5776052"
+  },
+  {
+    "title": "The Billis",
+    "imdb_id": "tt29303395"
+  },
+  {
+    "title": "The Not Very Grand Tour",
+    "imdb_id": "tt36166928"
+  },
+  {
+    "title": "Real Madrid: How Could I Not Love You",
+    "imdb_id": "tt35696553"
+  },
+  {
+    "title": "Der Mann im Mond",
+    "imdb_id": "tt30028793"
+  },
+  {
+    "title": "Enigma",
+    "imdb_id": "tt23874798"
+  },
+  {
+    "title": "FACE - Cyber Hanzai Tokusouhan",
+    "imdb_id": "tt7256538"
+  },
+  {
+    "title": "Hackers",
+    "imdb_id": "tt6039900"
+  },
+  {
+    "title": "American MC",
+    "imdb_id": "tt7150392"
+  },
+  {
+    "title": "Africa River Wild",
+    "imdb_id": "tt7632644"
+  },
+  {
+    "title": "Clarkson's Farm",
+    "imdb_id": "tt10541088"
+  },
+  {
+    "title": "Dudes",
+    "imdb_id": "tt26735172"
+  },
+  {
+    "title": "The Boys",
+    "imdb_id": "tt1190634"
+  },
+  {
+    "title": "Rigo",
+    "imdb_id": "tt29549403"
+  },
+  {
+    "title": "7 vs. Wild",
+    "imdb_id": "tt16994878"
   }
 ]

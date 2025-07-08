@@ -1,97 +1,330 @@
 [
   {
     "title": "The Daily Show",
-    "imdb_id": "tt0115147",
-    "type": "series"
+    "imdb_id": "tt0115147"
   },
   {
     "title": "Ici tout commence",
-    "imdb_id": "tt13392064",
-    "type": "series"
+    "imdb_id": "tt13392064"
   },
   {
     "title": "Tomorrow Is Ours",
-    "imdb_id": "tt7124904",
-    "type": "series"
+    "imdb_id": "tt7124904"
   },
   {
     "title": "Jeopardy!",
-    "imdb_id": "tt0159881",
-    "type": "series"
+    "imdb_id": "tt0159881"
   },
   {
     "title": "LIVE with Kelly and Mark",
-    "imdb_id": "tt0096636",
-    "type": "series"
+    "imdb_id": "tt0096636"
   },
   {
     "title": "Honest Trailers",
-    "imdb_id": "tt2610260",
-    "type": "series"
+    "imdb_id": "tt2610260"
   },
   {
     "title": "America's Got Talent",
-    "imdb_id": "tt0759364",
-    "type": "series"
+    "imdb_id": "tt0759364"
   },
   {
     "title": "Home and Away",
-    "imdb_id": "tt0094481",
-    "type": "series"
+    "imdb_id": "tt0094481"
   },
   {
     "title": "Suidooster",
-    "imdb_id": "tt5467444",
-    "type": "series"
+    "imdb_id": "tt5467444"
   },
   {
     "title": "Com si fos ahir",
-    "imdb_id": "tt7331764",
-    "type": "series"
+    "imdb_id": "tt7331764"
   },
   {
     "title": "Martial Master",
-    "imdb_id": "tt20769560",
-    "type": "series"
+    "imdb_id": "tt20769560"
   },
   {
     "title": "Kelders van Geheime",
-    "imdb_id": "tt32264511",
-    "type": "series"
+    "imdb_id": "tt32264511"
   },
   {
     "title": "Dreams of Liberty",
-    "imdb_id": "tt30002038",
-    "type": "series"
+    "imdb_id": "tt30002038"
   },
   {
     "title": "Neighbours",
-    "imdb_id": "tt0088580",
-    "type": "series"
+    "imdb_id": "tt0088580"
   },
   {
     "title": "The Bold and the Beautiful",
-    "imdb_id": "tt0092325",
-    "type": "series"
+    "imdb_id": "tt0092325"
   },
   {
     "title": "Love Island",
-    "imdb_id": "tt8819906",
-    "type": "series"
+    "imdb_id": "tt8819906"
   },
   {
     "title": "Homes Under the Hammer",
-    "imdb_id": "tt0419336",
-    "type": "series"
+    "imdb_id": "tt0419336"
   },
   {
     "title": "Binnelanders",
-    "imdb_id": "tt1527854",
-    "type": "series"
+    "imdb_id": "tt1527854"
   },
   {
     "title": "TMZ Live",
-    "imdb_id": "tt2852666",
-    "type": "series"
+    "imdb_id": "tt2852666"
+  },
+  {
+    "title": "Emmerdale",
+    "imdb_id": "tt0068069"
+  },
+  {
+    "title": "The Cheap Seats",
+    "imdb_id": "tt15073262"
+  },
+  {
+    "title": "MasterChef Australia",
+    "imdb_id": "tt1433870"
+  },
+  {
+    "title": "The Young and the Restless",
+    "imdb_id": "tt0069658"
+  },
+  {
+    "title": "Lang Leve de Liefde",
+    "imdb_id": "tt15303180"
+  },
+  {
+    "title": "Stick",
+    "imdb_id": "tt31710249"
+  },
+  {
+    "title": "Secret Story",
+    "imdb_id": "tt1364140"
+  },
+  {
+    "title": "Chopped",
+    "imdb_id": "tt1353281"
+  },
+  {
+    "title": "La promesa",
+    "imdb_id": "tt22325164"
+  },
+  {
+    "title": "In aller Freundschaft",
+    "imdb_id": "tt0178142"
+  },
+  {
+    "title": "Dertigers",
+    "imdb_id": "tt12258686"
+  },
+  {
+    "title": "La Jefa",
+    "imdb_id": "tt34275059"
+  },
+  {
+    "title": "Incognito",
+    "imdb_id": "tt34852944"
+  },
+  {
+    "title": "WWE NXT",
+    "imdb_id": "tt1601141"
+  },
+  {
+    "title": "Critical Role Abridged",
+    "imdb_id": "tt32799417"
+  },
+  {
+    "title": "Que Hist\u00f3ria \u00e9 Essa, Porchat?",
+    "imdb_id": "tt10621304"
+  },
+  {
+    "title": "A Dream Within a Dream",
+    "imdb_id": "tt32247928"
+  },
+  {
+    "title": "Wonderland",
+    "imdb_id": "tt30461027"
+  },
+  {
+    "title": "Redemption",
+    "imdb_id": "tt22693974"
+  },
+  {
+    "title": "Head Over Heels",
+    "imdb_id": "tt37146661"
+  },
+  {
+    "title": "Beyond the Gates",
+    "imdb_id": "tt32125269"
+  },
+  {
+    "title": "Na Wsp\u00f3lnej",
+    "imdb_id": "tt0388626"
+  },
+  {
+    "title": "Days of Our Lives",
+    "imdb_id": "tt0058796"
+  },
+  {
+    "title": "Great Escape",
+    "imdb_id": "tt12599910"
+  },
+  {
+    "title": "Shrouding the Heavens",
+    "imdb_id": "tt27617390"
+  },
+  {
+    "title": "Flourished Peony",
+    "imdb_id": "tt29931668"
+  },
+  {
+    "title": "Dona de Mim",
+    "imdb_id": "tt36759024"
+  },
+  {
+    "title": "Chronicles of the Sun",
+    "imdb_id": "tt8883922"
+  },
+  {
+    "title": "Diepe Waters",
+    "imdb_id": "tt22491458"
+  },
+  {
+    "title": "The Secret of Skinwalker Ranch",
+    "imdb_id": "tt10589968"
+  },
+  {
+    "title": "See No Evil",
+    "imdb_id": "tt4189570"
+  },
+  {
+    "title": "Grand Blue Dreaming",
+    "imdb_id": "tt8086718"
+  },
+  {
+    "title": "A Protegida",
+    "imdb_id": "tt33719192"
+  },
+  {
+    "title": "Hunter with a Scalpel",
+    "imdb_id": "tt36807941"
+  },
+  {
+    "title": "Swallowed Star",
+    "imdb_id": "tt17050076"
+  },
+  {
+    "title": "LEGO Masters",
+    "imdb_id": "tt9615014"
+  },
+  {
+    "title": "Kuma - The Other Wife",
+    "imdb_id": "tt34807505"
+  },
+  {
+    "title": "PBS News Hour",
+    "imdb_id": "tt0247880"
+  },
+  {
+    "title": "Sp\u00f8rg Charlie",
+    "imdb_id": "tt0778574"
+  },
+  {
+    "title": "The Librarians: The Next Chapter",
+    "imdb_id": "tt27799594"
+  },
+  {
+    "title": "In the Name of Justice",
+    "imdb_id": "tt31565382"
+  },
+  {
+    "title": "Malory Towers",
+    "imdb_id": "tt11129816"
+  },
+  {
+    "title": "Love Island",
+    "imdb_id": "tt4770018"
+  },
+  {
+    "title": "General Hospital",
+    "imdb_id": "tt0056758"
+  },
+  {
+    "title": "See You Tomorrow at the Food Court",
+    "imdb_id": "tt36082234"
+  },
+  {
+    "title": "Created in China",
+    "imdb_id": "tt27951326"
+  },
+  {
+    "title": "24 Hours in Police Custody",
+    "imdb_id": "tt4116046"
+  },
+  {
+    "title": "Maine Cabin Masters",
+    "imdb_id": "tt6906110"
+  },
+  {
+    "title": "TMZ",
+    "imdb_id": "tt1095213"
+  },
+  {
+    "title": "Necronomico and the Cosmic Horror Show",
+    "imdb_id": "tt36469598"
+  },
+  {
+    "title": "There's No Freaking Way I'll Be Your Lover! Unless...",
+    "imdb_id": "tt36592708"
+  },
+  {
+    "title": "Big Brother Israel",
+    "imdb_id": "tt2331485"
+  },
+  {
+    "title": "Hell Motel",
+    "imdb_id": "tt36770974"
+  },
+  {
+    "title": "TMZ",
+    "imdb_id": "tt1095213"
+  },
+  {
+    "title": "The No Man Zone",
+    "imdb_id": "tt15474794"
+  },
+  {
+    "title": "Pacific Criminal",
+    "imdb_id": "tt11278600"
+  },
+  {
+    "title": "Plus belle la vie, encore plus belle",
+    "imdb_id": "tt29694831"
+  },
+  {
+    "title": "Juegos de amor y poder",
+    "imdb_id": "tt34276084"
+  },
+  {
+    "title": "Salon De Holmes",
+    "imdb_id": "tt37350295"
+  },
+  {
+    "title": "Weird History Food",
+    "imdb_id": "tt20202580"
+  },
+  {
+    "title": "Homeland Guardian",
+    "imdb_id": "tt37503062"
+  },
+  {
+    "title": "Tout pour la lumi\u00e8re",
+    "imdb_id": "tt34762367"
+  },
+  {
+    "title": "Dahoam is Dahoam",
+    "imdb_id": "tt1111847"
   }
 ]
