@@ -6,29 +6,38 @@ TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 TMDB_BASE = "https://api.themoviedb.org/3"
 HEADERS = {"accept": "application/json"}
 
-def fetch_tmdb(url, params={}):
+def fetch_tmdb(url, params={}, media_type="tv", pages=5):
     params["api_key"] = TMDB_API_KEY
     params.setdefault("region", "AU")
     params.setdefault("language", "en-AU")
+    params.setdefault("sort_by", "vote_average.desc")
+    params.setdefault("vote_count.gte", "50")  # filter out obscure junk
 
-    print(f"🔍 Fetching: {url} | Params: {params}")
-    res = requests.get(f"{TMDB_BASE}{url}", params=params, headers=HEADERS)
+    all_results = []
 
-    try:
-        data = res.json()
-    except ValueError:
-        print(f"❌ Invalid JSON from TMDb at {url}")
-        return []
+    for page in range(1, pages + 1):
+        params["page"] = page
+        print(f"🔍 Fetching page {page}: {url} | Params: {params}")
+        res = requests.get(f"{TMDB_BASE}{url}", params=params, headers=HEADERS)
 
-    if res.status_code != 200:
-        print(f"❌ TMDb error {res.status_code} at {url}: {data.get('status_message')}")
-        return []
+        try:
+            data = res.json()
+        except ValueError:
+            print(f"❌ Invalid JSON from TMDb on page {page}")
+            continue
 
-    if "results" not in data:
-        print(f"⚠️ No 'results' in TMDb response for {url}")
-        return []
+        if res.status_code != 200:
+            print(f"❌ TMDb error {res.status_code} page {page}: {data.get('status_message')}")
+            continue
 
-    return data["results"]
+        if "results" not in data or not data["results"]:
+            print(f"⚠️ No results on page {page}")
+            break
+
+        all_results.extend(data["results"])
+
+    return all_results
+
 
 def fetch_imdb_id(tmdb_id, media_type="tv"):
     url = f"/{media_type}/{tmdb_id}/external_ids"
@@ -69,7 +78,8 @@ def fetch_shows_for_list(list_def):
     if list_def.get("special") == "airing_today":
         return to_json_format(fetch_tmdb("/tv/airing_today"), "tv")
 
-    return to_json_format(fetch_tmdb(f"/discover/{media_type}", list_def["tmdb_params"]), media_type)
+return to_json_format(fetch_tmdb(f"/discover/{media_type}", list_def["tmdb_params"], media_type), media_type)
+
 
 def get_category_list():
     return [
