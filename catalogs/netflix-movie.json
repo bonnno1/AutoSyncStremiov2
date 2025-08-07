@@ -55,11 +55,6 @@
     "type": "movie"
   },
   {
-    "title": "KPop Demon Hunters",
-    "imdb_id": "tt14205554",
-    "type": "movie"
-  },
-  {
     "title": "Franco Escamilla: bienvenido al mundo",
     "imdb_id": "tt10128616",
     "type": "movie"
@@ -67,6 +62,11 @@
   {
     "title": "Grave of the Fireflies",
     "imdb_id": "tt0095327",
+    "type": "movie"
+  },
+  {
+    "title": "KPop Demon Hunters",
+    "imdb_id": "tt14205554",
     "type": "movie"
   },
   {
