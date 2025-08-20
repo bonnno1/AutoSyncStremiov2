@@ -75,11 +75,6 @@
     "type": "movie"
   },
   {
-    "title": "KPop Demon Hunters",
-    "imdb_id": "tt14205554",
-    "type": "movie"
-  },
-  {
     "title": "Heroes: Silence and Rock & Roll",
     "imdb_id": "tt14354838",
     "type": "movie"
@@ -90,13 +85,18 @@
     "type": "movie"
   },
   {
+    "title": "KPop Demon Hunters",
+    "imdb_id": "tt14205554",
+    "type": "movie"
+  },
+  {
     "title": "Howl's Moving Castle",
     "imdb_id": "tt0347149",
     "type": "movie"
   },
   {
-    "title": "Drawing Closer",
-    "imdb_id": "tt31078761",
+    "title": "Whiplash",
+    "imdb_id": "tt2582802",
     "type": "movie"
   }
 ]
