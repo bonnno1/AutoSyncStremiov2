@@ -1,7 +1,27 @@
 [
   {
+    "title": "The Three Deaths of Marisela Escobedo",
+    "imdb_id": "tt13206564",
+    "type": "movie"
+  },
+  {
     "title": "The Shawshank Redemption",
     "imdb_id": "tt0111161",
+    "type": "movie"
+  },
+  {
+    "title": "Franco Escamilla: por la an\u00e9cdota",
+    "imdb_id": "tt8467922",
+    "type": "movie"
+  },
+  {
+    "title": "Franco Escamilla: Eavesdropping",
+    "imdb_id": "tt22301428",
+    "type": "movie"
+  },
+  {
+    "title": "Emicida: AmarElo - It's All for Yesterday",
+    "imdb_id": "tt13458600",
     "type": "movie"
   },
   {
@@ -15,6 +35,11 @@
     "type": "movie"
   },
   {
+    "title": "Parasite",
+    "imdb_id": "tt6751668",
+    "type": "movie"
+  },
+  {
     "title": "The Lord of the Rings: The Return of the King",
     "imdb_id": "tt0167260",
     "type": "movie"
@@ -22,6 +47,21 @@
   {
     "title": "Forrest Gump",
     "imdb_id": "tt0109830",
+    "type": "movie"
+  },
+  {
+    "title": "Franco Escamilla: bienvenido al mundo",
+    "imdb_id": "tt10128616",
+    "type": "movie"
+  },
+  {
+    "title": "David Attenborough: A Life on Our Planet",
+    "imdb_id": "tt11989890",
+    "type": "movie"
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "imdb_id": "tt0095327",
     "type": "movie"
   },
   {
@@ -45,58 +85,18 @@
     "type": "movie"
   },
   {
-    "title": "Princess Mononoke",
-    "imdb_id": "tt0119698",
+    "title": "KPop Demon Hunters",
+    "imdb_id": "tt14205554",
     "type": "movie"
   },
   {
-    "title": "The Wild Robot",
-    "imdb_id": "tt29623480",
+    "title": "Whiplash",
+    "imdb_id": "tt2582802",
     "type": "movie"
   },
   {
-    "title": "Dead Poets Society",
-    "imdb_id": "tt0097165",
-    "type": "movie"
-  },
-  {
-    "title": "L\u00e9on: The Professional",
-    "imdb_id": "tt0110413",
-    "type": "movie"
-  },
-  {
-    "title": "Scarface",
-    "imdb_id": "tt0086250",
-    "type": "movie"
-  },
-  {
-    "title": "The Departed",
-    "imdb_id": "tt0407887",
-    "type": "movie"
-  },
-  {
-    "title": "Good Will Hunting",
-    "imdb_id": "tt0119217",
-    "type": "movie"
-  },
-  {
-    "title": "Black Clover: Sword of the Wizard King",
-    "imdb_id": "tt22868844",
-    "type": "movie"
-  },
-  {
-    "title": "Jujutsu Kaisen 0",
-    "imdb_id": "tt14331144",
-    "type": "movie"
-  },
-  {
-    "title": "My Neighbor Totoro",
-    "imdb_id": "tt0096283",
-    "type": "movie"
-  },
-  {
-    "title": "Pride & Prejudice",
-    "imdb_id": "tt0414387",
+    "title": "Inception",
+    "imdb_id": "tt1375666",
     "type": "movie"
   }
 ]
