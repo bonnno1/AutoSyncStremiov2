@@ -85,11 +85,6 @@
     "type": "movie"
   },
   {
-    "title": "KPop Demon Hunters",
-    "imdb_id": "tt14205554",
-    "type": "movie"
-  },
-  {
     "title": "Whiplash",
     "imdb_id": "tt2582802",
     "type": "movie"
@@ -97,6 +92,11 @@
   {
     "title": "Inception",
     "imdb_id": "tt1375666",
+    "type": "movie"
+  },
+  {
+    "title": "Drawing Closer",
+    "imdb_id": "tt31078761",
     "type": "movie"
   }
 ]
