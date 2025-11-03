@@ -15,11 +15,6 @@
     "type": "movie"
   },
   {
-    "title": "Franco Escamilla: por la an\u00e9cdota",
-    "imdb_id": "tt8467922",
-    "type": "movie"
-  },
-  {
     "title": "Franco Escamilla: Eavesdropping",
     "imdb_id": "tt22301428",
     "type": "movie"
@@ -75,11 +70,6 @@
     "type": "movie"
   },
   {
-    "title": "Franco Escamilla: bienvenido al mundo",
-    "imdb_id": "tt10128616",
-    "type": "movie"
-  },
-  {
     "title": "David Attenborough: A Life on Our Planet",
     "imdb_id": "tt11989890",
     "type": "movie"
@@ -97,6 +87,16 @@
   {
     "title": "The Lord of the Rings: The Two Towers",
     "imdb_id": "tt0167261",
+    "type": "movie"
+  },
+  {
+    "title": "Howl's Moving Castle",
+    "imdb_id": "tt0347149",
+    "type": "movie"
+  },
+  {
+    "title": "Whiplash",
+    "imdb_id": "tt2582802",
     "type": "movie"
   }
 ]
