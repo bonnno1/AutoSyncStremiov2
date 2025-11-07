@@ -55,11 +55,6 @@
     "type": "movie"
   },
   {
-    "title": "The Lord of the Rings: The Return of the King",
-    "imdb_id": "tt0167260",
-    "type": "movie"
-  },
-  {
     "title": "Forrest Gump",
     "imdb_id": "tt0109830",
     "type": "movie"
@@ -85,18 +80,23 @@
     "type": "movie"
   },
   {
-    "title": "The Lord of the Rings: The Fellowship of the Ring",
-    "imdb_id": "tt0120737",
-    "type": "movie"
-  },
-  {
     "title": "Heroes: Silence and Rock & Roll",
     "imdb_id": "tt14354838",
     "type": "movie"
   },
   {
-    "title": "The Lord of the Rings: The Two Towers",
-    "imdb_id": "tt0167261",
+    "title": "Howl's Moving Castle",
+    "imdb_id": "tt0347149",
+    "type": "movie"
+  },
+  {
+    "title": "Whiplash",
+    "imdb_id": "tt2582802",
+    "type": "movie"
+  },
+  {
+    "title": "Inception",
+    "imdb_id": "tt1375666",
     "type": "movie"
   }
 ]
