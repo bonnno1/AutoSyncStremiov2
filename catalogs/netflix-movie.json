@@ -20,11 +20,6 @@
     "type": "movie"
   },
   {
-    "title": "Franco Escamilla: Eavesdropping",
-    "imdb_id": "tt22301428",
-    "type": "movie"
-  },
-  {
     "title": "Emicida: AmarElo - It's All for Yesterday",
     "imdb_id": "tt13458600",
     "type": "movie"
@@ -97,6 +92,11 @@
   {
     "title": "Inception",
     "imdb_id": "tt1375666",
+    "type": "movie"
+  },
+  {
+    "title": "Racionais MC's: From the Streets of S\u00e3o Paulo",
+    "imdb_id": "tt22988228",
     "type": "movie"
   }
 ]
