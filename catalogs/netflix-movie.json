@@ -15,11 +15,6 @@
     "type": "movie"
   },
   {
-    "title": "Franco Escamilla: por la an\u00e9cdota",
-    "imdb_id": "tt8467922",
-    "type": "movie"
-  },
-  {
     "title": "Emicida: AmarElo - It's All for Yesterday",
     "imdb_id": "tt13458600",
     "type": "movie"
@@ -65,11 +60,6 @@
     "type": "movie"
   },
   {
-    "title": "Franco Escamilla: bienvenido al mundo",
-    "imdb_id": "tt10128616",
-    "type": "movie"
-  },
-  {
     "title": "Love Untangled",
     "imdb_id": "tt33549683",
     "type": "movie"
@@ -97,6 +87,16 @@
   {
     "title": "Racionais MC's: From the Streets of S\u00e3o Paulo",
     "imdb_id": "tt22988228",
+    "type": "movie"
+  },
+  {
+    "title": "Drawing Closer",
+    "imdb_id": "tt31078761",
+    "type": "movie"
+  },
+  {
+    "title": "Spider-Man: Across the Spider-Verse",
+    "imdb_id": "tt9362722",
     "type": "movie"
   }
 ]
