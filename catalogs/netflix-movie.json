@@ -60,11 +60,6 @@
     "type": "movie"
   },
   {
-    "title": "Cosmic Princess Kaguya!",
-    "imdb_id": "tt38872297",
-    "type": "movie"
-  },
-  {
     "title": "Grave of the Fireflies",
     "imdb_id": "tt0095327",
     "type": "movie"
@@ -72,6 +67,11 @@
   {
     "title": "Life Is Beautiful",
     "imdb_id": "tt0118799",
+    "type": "movie"
+  },
+  {
+    "title": "Cosmic Princess Kaguya!",
+    "imdb_id": "tt38872297",
     "type": "movie"
   },
   {
