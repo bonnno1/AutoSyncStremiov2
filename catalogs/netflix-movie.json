@@ -70,6 +70,11 @@
     "type": "movie"
   },
   {
+    "title": "Fight Club",
+    "imdb_id": "tt0137523",
+    "type": "movie"
+  },
+  {
     "title": "Heroes: Silence and Rock & Roll",
     "imdb_id": "tt14354838",
     "type": "movie"
@@ -92,11 +97,6 @@
   {
     "title": "Spider-Man: Across the Spider-Verse",
     "imdb_id": "tt9362722",
-    "type": "movie"
-  },
-  {
-    "title": "Even If This Love Disappears Tonight",
-    "imdb_id": "tt39049192",
     "type": "movie"
   }
 ]
