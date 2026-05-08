@@ -35,6 +35,11 @@
     "type": "movie"
   },
   {
+    "title": "The Lord of the Rings: The Return of the King",
+    "imdb_id": "tt0167260",
+    "type": "movie"
+  },
+  {
     "title": "Parasite",
     "imdb_id": "tt6751668",
     "type": "movie"
@@ -65,8 +70,18 @@
     "type": "movie"
   },
   {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "imdb_id": "tt0120737",
+    "type": "movie"
+  },
+  {
     "title": "David Attenborough: A Life on Our Planet",
     "imdb_id": "tt11989890",
+    "type": "movie"
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "imdb_id": "tt0167261",
     "type": "movie"
   },
   {
@@ -82,21 +97,6 @@
   {
     "title": "Inception",
     "imdb_id": "tt1375666",
-    "type": "movie"
-  },
-  {
-    "title": "Drawing Closer",
-    "imdb_id": "tt31078761",
-    "type": "movie"
-  },
-  {
-    "title": "Spider-Man: Across the Spider-Verse",
-    "imdb_id": "tt9362722",
-    "type": "movie"
-  },
-  {
-    "title": "Racionais MC's: From the Streets of S\u00e3o Paulo",
-    "imdb_id": "tt22988228",
     "type": "movie"
   }
 ]
