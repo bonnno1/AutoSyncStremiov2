@@ -35,6 +35,11 @@
     "type": "movie"
   },
   {
+    "title": "Remarkably Bright Creatures",
+    "imdb_id": "tt33100314",
+    "type": "movie"
+  },
+  {
     "title": "Spirited Away",
     "imdb_id": "tt0245429",
     "type": "movie"
@@ -42,11 +47,6 @@
   {
     "title": "Dilwale Dulhania Le Jayenge",
     "imdb_id": "tt0112870",
-    "type": "movie"
-  },
-  {
-    "title": "Remarkably Bright Creatures",
-    "imdb_id": "tt33100314",
     "type": "movie"
   },
   {
