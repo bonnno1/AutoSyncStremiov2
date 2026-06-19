@@ -55,11 +55,6 @@
     "type": "movie"
   },
   {
-    "title": "Parasite",
-    "imdb_id": "tt6751668",
-    "type": "movie"
-  },
-  {
     "title": "Pulp Fiction",
     "imdb_id": "tt0110912",
     "type": "movie"
@@ -97,6 +92,11 @@
   {
     "title": "The Lord of the Rings: The Two Towers",
     "imdb_id": "tt0167261",
+    "type": "movie"
+  },
+  {
+    "title": "Cosmic Princess Kaguya!",
+    "imdb_id": "tt38872297",
     "type": "movie"
   }
 ]
