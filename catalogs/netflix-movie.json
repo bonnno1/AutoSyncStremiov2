@@ -85,6 +85,11 @@
     "type": "movie"
   },
   {
+    "title": "Even If This Love Disappears Tonight",
+    "imdb_id": "tt39049192",
+    "type": "movie"
+  },
+  {
     "title": "Fight Club",
     "imdb_id": "tt0137523",
     "type": "movie"
@@ -92,11 +97,6 @@
   {
     "title": "The Lord of the Rings: The Two Towers",
     "imdb_id": "tt0167261",
-    "type": "movie"
-  },
-  {
-    "title": "Even If This Love Disappears Tonight",
-    "imdb_id": "tt39049192",
     "type": "movie"
   }
 ]
