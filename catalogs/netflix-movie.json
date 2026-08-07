@@ -80,11 +80,6 @@
     "type": "movie"
   },
   {
-    "title": "Life Is Beautiful",
-    "imdb_id": "tt0118799",
-    "type": "movie"
-  },
-  {
     "title": "Fight Club",
     "imdb_id": "tt0137523",
     "type": "movie"
@@ -97,6 +92,11 @@
   {
     "title": "The Lord of the Rings: The Two Towers",
     "imdb_id": "tt0167261",
+    "type": "movie"
+  },
+  {
+    "title": "Howl's Moving Castle",
+    "imdb_id": "tt0347149",
     "type": "movie"
   }
 ]
