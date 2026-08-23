@@ -60,11 +60,6 @@
     "type": "movie"
   },
   {
-    "title": "Remarkably Bright Creatures",
-    "imdb_id": "tt33100314",
-    "type": "movie"
-  },
-  {
     "title": "Even If This Love Disappears Tonight",
     "imdb_id": "tt39049192",
     "type": "movie"
@@ -77,6 +72,11 @@
   {
     "title": "The Lord of the Rings: The Fellowship of the Ring",
     "imdb_id": "tt0120737",
+    "type": "movie"
+  },
+  {
+    "title": "Remarkably Bright Creatures",
+    "imdb_id": "tt33100314",
     "type": "movie"
   },
   {
