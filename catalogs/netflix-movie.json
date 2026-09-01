@@ -5,13 +5,13 @@
     "type": "movie"
   },
   {
-    "title": "The Three Deaths of Marisela Escobedo",
-    "imdb_id": "tt13206564",
+    "title": "Facing El Chapo",
+    "imdb_id": "tt39390497",
     "type": "movie"
   },
   {
-    "title": "Facing El Chapo",
-    "imdb_id": "tt39390497",
+    "title": "The Three Deaths of Marisela Escobedo",
+    "imdb_id": "tt13206564",
     "type": "movie"
   },
   {
@@ -45,11 +45,6 @@
     "type": "movie"
   },
   {
-    "title": "A Child of My Own",
-    "imdb_id": "tt37961750",
-    "type": "movie"
-  },
-  {
     "title": "The Lord of the Rings: The Return of the King",
     "imdb_id": "tt0167260",
     "type": "movie"
@@ -72,6 +67,11 @@
   {
     "title": "Even If This Love Disappears Tonight",
     "imdb_id": "tt39049192",
+    "type": "movie"
+  },
+  {
+    "title": "A Child of My Own",
+    "imdb_id": "tt37961750",
     "type": "movie"
   },
   {
