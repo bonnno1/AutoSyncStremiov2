@@ -5,11 +5,6 @@
     "type": "movie"
   },
   {
-    "title": "Facing El Chapo",
-    "imdb_id": "tt39390497",
-    "type": "movie"
-  },
-  {
     "title": "The Three Deaths of Marisela Escobedo",
     "imdb_id": "tt13206564",
     "type": "movie"
@@ -17,6 +12,11 @@
   {
     "title": "BTS THE COMEBACK LIVE | ARIRANG",
     "imdb_id": "tt39578533",
+    "type": "movie"
+  },
+  {
+    "title": "Facing El Chapo",
+    "imdb_id": "tt39390497",
     "type": "movie"
   },
   {
@@ -65,6 +65,11 @@
     "type": "movie"
   },
   {
+    "title": "A Child of My Own",
+    "imdb_id": "tt37961750",
+    "type": "movie"
+  },
+  {
     "title": "Even If This Love Disappears Tonight",
     "imdb_id": "tt39049192",
     "type": "movie"
@@ -80,18 +85,13 @@
     "type": "movie"
   },
   {
-    "title": "Remarkably Bright Creatures",
-    "imdb_id": "tt33100314",
-    "type": "movie"
-  },
-  {
-    "title": "A Child of My Own",
-    "imdb_id": "tt37961750",
-    "type": "movie"
-  },
-  {
     "title": "Fight Club",
     "imdb_id": "tt0137523",
+    "type": "movie"
+  },
+  {
+    "title": "Remarkably Bright Creatures",
+    "imdb_id": "tt33100314",
     "type": "movie"
   },
   {
