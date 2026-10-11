@@ -35,11 +35,6 @@
     "type": "movie"
   },
   {
-    "title": "A Child of My Own",
-    "imdb_id": "tt33565722",
-    "type": "movie"
-  },
-  {
     "title": "Emicida: AmarElo - It's All for Yesterday",
     "imdb_id": "tt13458600",
     "type": "movie"
@@ -47,6 +42,11 @@
   {
     "title": "Franco Escamilla: Eavesdropping",
     "imdb_id": "tt22301428",
+    "type": "movie"
+  },
+  {
+    "title": "A Child of My Own",
+    "imdb_id": "tt33565722",
     "type": "movie"
   },
   {
