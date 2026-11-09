@@ -15,6 +15,11 @@
     "type": "movie"
   },
   {
+    "title": "Selena y Los Dinos: A Family's Legacy",
+    "imdb_id": "tt34963797",
+    "type": "movie"
+  },
+  {
     "title": "Facing El Chapo",
     "imdb_id": "tt39390497",
     "type": "movie"
@@ -92,11 +97,6 @@
   {
     "title": "Parasite",
     "imdb_id": "tt6751668",
-    "type": "movie"
-  },
-  {
-    "title": "Grave of the Fireflies",
-    "imdb_id": "tt0095327",
     "type": "movie"
   }
 ]
