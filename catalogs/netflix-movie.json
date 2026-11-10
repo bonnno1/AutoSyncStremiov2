@@ -15,11 +15,6 @@
     "type": "movie"
   },
   {
-    "title": "Selena y Los Dinos: A Family's Legacy",
-    "imdb_id": "tt34963797",
-    "type": "movie"
-  },
-  {
     "title": "Facing El Chapo",
     "imdb_id": "tt39390497",
     "type": "movie"
@@ -27,6 +22,11 @@
   {
     "title": "The Godfather",
     "imdb_id": "tt0068646",
+    "type": "movie"
+  },
+  {
+    "title": "Selena y Los Dinos: A Family's Legacy",
+    "imdb_id": "tt34963797",
     "type": "movie"
   },
   {
@@ -55,13 +55,13 @@
     "type": "movie"
   },
   {
-    "title": "My Dearest Assassin",
-    "imdb_id": "tt39749979",
+    "title": "The Godfather Part II",
+    "imdb_id": "tt0071562",
     "type": "movie"
   },
   {
-    "title": "The Godfather Part II",
-    "imdb_id": "tt0071562",
+    "title": "My Dearest Assassin",
+    "imdb_id": "tt39749979",
     "type": "movie"
   },
   {
