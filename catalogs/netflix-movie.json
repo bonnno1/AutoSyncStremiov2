@@ -25,11 +25,6 @@
     "type": "movie"
   },
   {
-    "title": "Selena y Los Dinos: A Family's Legacy",
-    "imdb_id": "tt34963797",
-    "type": "movie"
-  },
-  {
     "title": "Franco Escamilla: por la an\u00e9cdota",
     "imdb_id": "tt8467922",
     "type": "movie"
@@ -42,6 +37,11 @@
   {
     "title": "A Child of My Own",
     "imdb_id": "tt33565722",
+    "type": "movie"
+  },
+  {
+    "title": "Selena y Los Dinos: A Family's Legacy",
+    "imdb_id": "tt34963797",
     "type": "movie"
   },
   {
